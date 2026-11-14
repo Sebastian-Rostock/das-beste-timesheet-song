@@ -51,7 +51,7 @@ Immer am Monatsersten wird rückwirkend der gesamte vergangene Monat in das Syst
 > Das beste Timesheet... im ganzen Jahr!
 
 * **Die 7,8 auf der Bahn:** Bei einer regulären 39-Stunden-Woche (TVöD) muss in der oberen Summenzeile von SAP CATS für jeden regulären Vollzeittag exakt **7,8 Stunden** als Summe stehen. Hat ein Projekt im Monat eine „krumme“ Stundenzahl (also kein glattes Vielfaches von 7,8), müssen die Stunden anteilig so über die Tage und Projekte gepuzzelt werden, dass am Ende oben überall sauber die 7,8 erscheint.
-* **Mandy aus der Zeitwirtschaft:** Eine liebevolle Hommage an die Kollegin aus der Zeitwirtschaft, die die monatlichen Bögen prüft – und sich natürlich freut, wenn alle Stunden fristgerecht und ohne Rechenfehler vorliegen. (Fun Fact: Die echte Mandy findet den Song selbst großartig!)
+* **Mandy aus der Zeitwirtschaft:** Eine liebevolle Hommage an die Kollegin aus der Zeitwirtschaft, die die monatlichen Bögen prüft – und sich natürlich freut, wenn alle Stunden fristgerecht und ohne Rechenfehler vorliegen. (Fun Fact: Die echte Mandy findet den Song selbst großartig!) Wer den Song für die eigene Abteilung anpassen möchte, kann „Die Mandy“ übrigens problemlos durch den eigenen zweisilbigen Ansprechpartner (inklusive Artikel) ersetzen – etwa „Die Lisa“ der „Der Thomas“.
 
 ---
 
