@@ -32,7 +32,7 @@ Anders als mein erstes Projekt wurde *Das beste Timesheet – 7,8* nicht auf Sun
   * [➜ Formatierter Songtext](lyrics/lyrics_format.md) – *Pur zum Lesen und Mitsingen.*
   * [➜ Songtext mit Interpretation](lyrics/lyrics_meaning.md) – *Alle Insider rund um 7,8 Stunden, SAP CATS, Dresden & München.*
   * [➜ Songtext als Prompt](lyrics/lyrics_prompt.md) – *Die phonetisch angepasste Version für die Audio-Generierung.*
-* [➜ Musikrichtungen, Workflows & Cover](styles/styles.md) – *Alle 16 Stile (inkl. der veröffentlichten Retro-Synth-Wave-Version), Parameter-Tabellen (BPM, Seed, `total_bars`), Katzen-Cover und der ComfyUI-Master-Workflow.*
+* [➜ Musikrichtungen](styles/styles.md) – *Alle Stile, Cover und Workflows.*
 
 ---
 
