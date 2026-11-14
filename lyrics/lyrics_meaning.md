@@ -27,7 +27,7 @@ Immer am Monatsersten wird rückwirkend der gesamte vergangene Monat in das Syst
 
 * **Das noch weiße Timesheet:** Zu Beginn des Monats ist der Erfassungsbogen für den Vormonat noch komplett leer – eine weiße Leinwand voller Rechenarbeit.
 * **SAP CATS:** Das *Cross-Application Time Sheet* von SAP.
-* **Die absolute Wahrheit:** Ein liebevoller Seitenhieb darauf, dass am Ende nicht die gefühlte Zeit zählt, sondern das, was mathematisch sauber im System verbucht ist.
+* **Die absolute Wahrheit:** Ein liebevoller Seitenhieb auf die Logik der Zeiterfassung. Am Ende zählt eigentlich nicht, an welchem Tag man wirklich an welchem Thema saß, sondern dass die Tabelle mathematisch aufgeht.
 
 > Projekte sind groß, die Vision ist so klar.  
 > Stunden im System sind mein einziger Star!  
@@ -69,7 +69,7 @@ Immer am Monatsersten wird rückwirkend der gesamte vergangene Monat in das Syst
 > Ich buche die Reise, ich buche das Team.  
 > Mein Zeiterfassungs-Song ist jetzt mein Supreme!
 
-* **Von Dresden bis München:** Schlägt den Bogen vom eigenen Institutsstandort in Dresden bis zur Fraunhofer-Zentrale in München – denn egal an welchem Standort geforscht wird, am Monatsersten eint alle dasselbe Ritual.
+* **Von Dresden bis München:** Schlägt den Bogen von der „Fraunhofer-Hauptstadt“ Dresden – dem Standort mit den meisten Fraunhofer-Einrichtungen deutschlandweit – direkt bis zur Zentrale in München, wo alle SAP-Daten zusammenlaufen. Wer den Song für den eigenen Standort umdichten möchte, kann Dresden problemlos durch jede andere zweisilbige (oder gekürzte) Fraunhofer-Stadt ersetzen, zum Beispiel: Aachen, Augsburg, Bochum, Bonn, Bremen, Chemnitz, Cottbus, Darmstadt, Dortmund, Duisburg, Erfurt, Erlang' (Erlangen), Essen, Frankfurt, Freiburg, Halle, Hamburg, Jena, Kassel, Köln, Leipzig, Lübeck, Mainz, Münster, Potsdam, Rostock, Siegen, Stuttgart, Weimar oder Würzburg. Denn egal, an welchem Standort geforscht wird – am Monatsersten eint alle dasselbe Ritual.
 
 ---
 
