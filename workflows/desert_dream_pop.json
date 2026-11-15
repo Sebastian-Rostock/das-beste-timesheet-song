@@ -1,7 +1,7 @@
 {
   "id": "60275dc7-69d5-4795-8210-3489ae8012c8",
   "revision": 0,
-  "last_node_id": 3378,
+  "last_node_id": 3379,
   "last_link_id": 3328,
   "nodes": [
     {
@@ -168,7 +168,6 @@
           "links": []
         }
       ],
-      "title": "AceStepAudioMergeTAGS-9 (4)",
       "properties": {
         "previewExposures": []
       },
@@ -264,7 +263,6 @@
           "links": []
         }
       ],
-      "title": "AceStepAudioMergeTAGS-9 (3)",
       "properties": {
         "previewExposures": []
       },
@@ -740,7 +738,6 @@
           "links": []
         }
       ],
-      "title": "AceStepAudioMergeTAGS-9 (2)",
       "properties": {
         "previewExposures": []
       },
@@ -768,33 +765,6 @@
       }
     },
     {
-      "id": 3354,
-      "type": "MarkdownNote",
-      "pos": [
-        6200,
-        2040
-      ],
-      "size": [
-        600,
-        460
-      ],
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "🎵 Das beste Timesheet – 7,8 (ACE-Step 1.5 Master-Workflow)",
-      "properties": {},
-      "widgets_values": [
-        "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei der Fraunhofer-Gesellschaft in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
-      ],
-      "widgets_values_named": {
-        "text": "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei der Fraunhofer-Gesellschaft in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 3355,
       "type": "d0656e65-0d20-410b-ab56-7861a8951332",
       "pos": [
@@ -806,7 +776,7 @@
         460
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [
         {
@@ -982,7 +952,7 @@
         360
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [
         {
@@ -1077,7 +1047,7 @@
         460
       ],
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [
         {
@@ -1146,7 +1116,7 @@
         360
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [
         {
@@ -1205,7 +1175,6 @@
           ]
         }
       ],
-      "title": "AceStepAudioMergeTAGS-9 (1))",
       "properties": {
         "previewExposures": []
       },
@@ -1231,25 +1200,36 @@
         "temperature": 0.85,
         "value_3": 8
       }
+    },
+    {
+      "id": 3379,
+      "type": "MarkdownNote",
+      "pos": [
+        6200,
+        2040
+      ],
+      "size": [
+        600,
+        460
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "🎵 Das beste Timesheet – 7,8",
+      "properties": {},
+      "widgets_values": [
+        "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei Fraunhofer in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com/Sebastian-Rostock/das-beste-timesheet-song\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
+      ],
+      "widgets_values_named": {
+        "text": "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei Fraunhofer in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com/Sebastian-Rostock/das-beste-timesheet-song\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
+      },
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
-    [
-      3262,
-      3357,
-      0,
-      3356,
-      0,
-      "AUDIO"
-    ],
-    [
-      3263,
-      3357,
-      1,
-      3356,
-      1,
-      "STRING"
-    ],
     [
       3327,
       3364,
@@ -1265,6 +1245,22 @@
       3357,
       1,
       "LIST"
+    ],
+    [
+      3262,
+      3357,
+      0,
+      3356,
+      0,
+      "AUDIO"
+    ],
+    [
+      3263,
+      3357,
+      1,
+      3356,
+      1,
+      "STRING"
     ]
   ],
   "groups": [],
@@ -1275,7 +1271,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -2050,7 +2046,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -2825,7 +2821,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -3600,7 +3596,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -4375,7 +4371,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -5150,7 +5146,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -5925,7 +5921,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -6700,7 +6696,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -7475,7 +7471,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -7963,7 +7959,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -8641,7 +8637,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -9416,7 +9412,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -9909,7 +9905,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -11650,7 +11646,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -12702,7 +12698,7 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
@@ -13190,13 +13186,13 @@
         "version": 1,
         "state": {
           "lastGroupId": 2,
-          "lastNodeId": 3378,
+          "lastNodeId": 3379,
           "lastLinkId": 3328,
           "lastRerouteId": 0
         },
         "revision": 0,
         "config": {},
-        "name": "AceStepAudioMergeTAGS-9 (1))",
+        "name": "AceStepAudioMergeTAGS-9 (1)",
         "inputNode": {
           "id": -10,
           "bounding": [
@@ -13971,10 +13967,10 @@
     "VHS_MetadataImage": true,
     "VHS_KeepIntermediate": true,
     "ds": {
-      "scale": 0.7160278008991986,
+      "scale": 0.8663936390880301,
       "offset": [
-        -5258.694371959111,
-        -1497.439522599535
+        -6060.693485846087,
+        -2211.1411537752924
       ]
     }
   },
