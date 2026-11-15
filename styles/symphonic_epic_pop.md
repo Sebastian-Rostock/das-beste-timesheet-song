@@ -9,7 +9,7 @@
 
 [➜ ComfyUI_Workflow](../workflows/symphonic_epic_pop.json)
 
-#### Genre_Cover & Bild_Prompt
+#### Genre-Cover & Bild-Prompt
 
 ![Cover – Symphonic Epic Pop](covers/symphonic_epic_pop.webp)
 
