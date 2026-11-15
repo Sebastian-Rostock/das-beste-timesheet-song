@@ -1,0 +1,6463 @@
+{
+  "id": "66cc00d6-9ac5-49cd-9719-e4417f195e51",
+  "revision": 0,
+  "last_node_id": 3453,
+  "last_link_id": 3529,
+  "nodes": [
+    {
+      "id": 2637,
+      "type": "11559fab-b017-4116-90ad-dc4f1c5ea017",
+      "pos": [
+        6200,
+        2740
+      ],
+      "size": [
+        600,
+        360
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "tags",
+          "name": "value_1",
+          "type": "STRING",
+          "widget": {
+            "name": "value_1"
+          },
+          "link": null
+        },
+        {
+          "label": "title",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          },
+          "link": null
+        },
+        {
+          "label": "total_bars",
+          "name": "value_5",
+          "type": "INT",
+          "widget": {
+            "name": "value_5"
+          },
+          "link": null
+        },
+        {
+          "label": "bpm",
+          "name": "value_2",
+          "type": "INT",
+          "widget": {
+            "name": "value_2"
+          },
+          "link": null
+        },
+        {
+          "label": "steps",
+          "name": "value_3",
+          "type": "INT",
+          "widget": {
+            "name": "value_3"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "label": "ASA-T9",
+          "name": "LIST",
+          "type": "LIST",
+          "links": []
+        }
+      ],
+      "properties": {
+        "previewExposures": []
+      },
+      "widgets_values": [
+        "slick, high-energy modern arabic pop, trap fusion, upbeat tempo, fast hypnotic darbuka, tabla percussion, heavy driving sub-bass, trap drums, catchy synthesized middle-eastern string hook, maqam hijaz, charismatic, playful vocals, euphoric pop hook",
+        "Arabian Trap",
+        71,
+        121,
+        20260913,
+        "C minor",
+        1.5,
+        0.8500000000000001,
+        10
+      ],
+      "widgets_values_named": {
+        "value_1": "slick, high-energy modern arabic pop, trap fusion, upbeat tempo, fast hypnotic darbuka, tabla percussion, heavy driving sub-bass, trap drums, catchy synthesized middle-eastern string hook, maqam hijaz, charismatic, playful vocals, euphoric pop hook",
+        "value": "Arabian Trap",
+        "value_5": 71,
+        "value_2": 121,
+        "seed": 20260913,
+        "keyscale": "C minor",
+        "cfg_scale": 1.5,
+        "temperature": 0.8500000000000001,
+        "value_3": 10
+      }
+    },
+    {
+      "id": 2807,
+      "type": "c2c6a520-d31a-4a3e-a094-5d0155e7253d",
+      "pos": [
+        6200,
+        2240
+      ],
+      "size": [
+        600,
+        360
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "tags",
+          "name": "value_1",
+          "type": "STRING",
+          "widget": {
+            "name": "value_1"
+          },
+          "link": null
+        },
+        {
+          "label": "title",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          },
+          "link": null
+        },
+        {
+          "label": "total_bars",
+          "name": "value_5",
+          "type": "INT",
+          "widget": {
+            "name": "value_5"
+          },
+          "link": null
+        },
+        {
+          "label": "bpm",
+          "name": "value_2",
+          "type": "INT",
+          "widget": {
+            "name": "value_2"
+          },
+          "link": null
+        },
+        {
+          "label": "steps",
+          "name": "value_3",
+          "type": "INT",
+          "widget": {
+            "name": "value_3"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "label": "ASA-T9",
+          "name": "LIST",
+          "type": "LIST",
+          "links": [
+            3529
+          ]
+        }
+      ],
+      "properties": {
+        "previewExposures": []
+      },
+      "widgets_values": [
+        "slick, high-energy modern arabic pop, trap fusion, upbeat tempo, fast hypnotic darbuka, tabla percussion, heavy driving sub-bass, trap drums, catchy synthesized middle-eastern string hook, maqam hijaz, charismatic, playful vocals, euphoric pop hook",
+        "Arabian Trap",
+        73,
+        121,
+        20260913,
+        "C minor",
+        1.5,
+        0.9,
+        10
+      ],
+      "widgets_values_named": {
+        "value_1": "slick, high-energy modern arabic pop, trap fusion, upbeat tempo, fast hypnotic darbuka, tabla percussion, heavy driving sub-bass, trap drums, catchy synthesized middle-eastern string hook, maqam hijaz, charismatic, playful vocals, euphoric pop hook",
+        "value": "Arabian Trap",
+        "value_5": 73,
+        "value_2": 121,
+        "seed": 20260913,
+        "keyscale": "C minor",
+        "cfg_scale": 1.5,
+        "temperature": 0.9,
+        "value_3": 10
+      }
+    },
+    {
+      "id": 3432,
+      "type": "MarkdownNote",
+      "pos": [
+        5500,
+        1640
+      ],
+      "size": [
+        600,
+        460
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "🎵 Das beste Timesheet – 7,8",
+      "properties": {},
+      "widgets_values": [
+        "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei Fraunhofer in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com/Sebastian-Rostock/das-beste-timesheet-song\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
+      ],
+      "widgets_values_named": {
+        "text": "Der Song ist eine humorvolle, hyper-energische Hymne, die den trockenen bürokratischen Pflichtprozess der Zeiterfassung bei Fraunhofer in einen epischen Triumph verwandelt. Durch die treibende Musik wird der mentale Ausnahmezustand am „Timesheet-Tag“ eingefangen, sodass sich der finale Klick auf „Freigeben“ wie ein weltmeisterliches „Masterpiece“ anfühlt.\n\n### 🧩 So funktioniert der Baukasten (Subgraphs)\n* **ASA-L4 (Lyrics-Bus):** Enthält die phonetisch optimierten Lyrics, Titel, Sprache (*de*) und Silbenanzahl.\n* ***ASA-T9* (Style- & Parameter-Bus):** Jeder Block repräsentiert eine Stil-Variante (*tags*, *title*, *total_bars*, *bpm*, *seed*, *keyscale*, *cfg_scale*, *temperature*, *steps*).\n* **Umschalten:** Einfach den gewünschten *ASA-T9*-Subgraph mit dem Eingang ***ASA-T9*** von *AceStepAudioTTA-L4T9* verbinden und rendern. Dauer (*duration*), Silben pro Sekunde (*sps*) und Dateiname werden automatisch berechnet.\n\n### 📦 Verwendete Node-Pakete\n* ComfyUI Core (ACE-Step 1.5)\n* *Basic data handling* (*ListCreate*, *ListGetItem*, *CastTo...*)\n* *ComfyMathExpression* & *StringFormat*\n* *SaveAudioAdvanced*\n\n### 🔗 Projekt, Songtexte & Audios\n* **GitHub:** https://github.com/Sebastian-Rostock/das-beste-timesheet-song\n* **Autor & Lizenz:** Sebastian Rostock – **CC BY-NC-SA 4.0** *(Privates Spaß-Projekt; keine offizielle Veröffentlichung von Fraunhofer oder SAP)*\n"
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 3433,
+      "type": "0f3aec7f-b350-4dea-a2e8-c33823896dac",
+      "pos": [
+        6200,
+        1640
+      ],
+      "size": [
+        600,
+        460
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "lyrics",
+          "name": "value_1",
+          "type": "STRING",
+          "widget": {
+            "name": "value_1"
+          },
+          "link": null
+        },
+        {
+          "label": "title",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          },
+          "link": null
+        },
+        {
+          "label": "total_syllables",
+          "name": "value_5",
+          "type": "INT",
+          "widget": {
+            "name": "value_5"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "label": "ASA-T4",
+          "name": "LIST",
+          "type": "LIST",
+          "links": [
+            3478
+          ]
+        }
+      ],
+      "properties": {
+        "previewExposures": []
+      },
+      "widgets_values": [
+        "[Intro]\nHey-Yeah!\nEs ist mal wieder so weit. [en](Oh, It's on!)[de]\nLoggin, Buchen, Freigeben, Sichern!\n[en](Yeah!) Let's go! (Again?) [de]\n\n[Verse 1]\nMorgens halb-neun, der Kaffee ist heiß.\nIch logge mich ein, Timesheet ist noch weiß!\nDie Smartcard am Start, das System ist bereit.\nEssahpee Ketts, die absolu-te Wahrheit!\n\nProjekte sind groß, die Vision ist so klar.\nStunden im System sind mein einziger Star!\nProjekt Nummern tippen, im Akkord Takt.\nIch trag' die Arbeitszeit, exakt ab!\n\n[Chorus]\n(Hey! Hey-ho!) Füll das Blatt aus!\n(Hey! Hey-ho!) Lass die Zeit raus!\nDie Stunden fließen, der Tag ist vollbracht.\nIch hab' das Timesheet, per-fekt gemacht!\n\nDie Sieben Komma Acht auf der Bahn.\nDie Mändie freut sich, alles nach Plan!\nFraunhofer rockt, wir machen es wahr.\nDas beste Timesheet. Im ganzen Jahr!\n\n[Verse 2]\nTaskfors Projekt, die Deadline im Blick.\nKlick in die Maske, trag' alles schick!\nKostenstelle check, Pee-esspee Element,\nBis jeder Manager, die Zahlen hier kennt!\n\nVon Drehsden bis München, wir forsch'n am Limit.\nJede Minute im System ist vermittelt!\nIch buche die Reise, ich buche das Team.\nMein Zeiterfassungs-Song ist jetzt mein Supreme!\n\n[Bridge]\nKein Übertrag, alles genau ein-gereicht.\nMein größtes Ziel, ist heut' end-lich erreicht!\nDie Frei-gabe steht.\nUnd ab geht's!\n\n[Chorus]\n(Hey! Hey-ho!) Füll das Blatt aus!\n(Hey! Hey-ho!) Lass die Zeit raus!\nDie Stunden fließen, das Werk ist vollbracht!\nIch hab' das Timesheet, le-gen-där gemacht!\n\nYeah, Sieben Komma Acht auf der Bahn.\nYeah, Mändie tanzt jetzt, die Freigabe kam!\nFraunhofer rockt, wir machen es wahr.\nDas beste Timesheet. Im ganzen Jahr!\n\n[Outro]\nSieben Komma Acht. (Yeah!)\nAlles perfekt gemacht! [en](Masterpiece!) \nLog out! (We're done!)\n\n[End]",
+        "Das beste Timesheet - 7.8",
+        "de",
+        385
+      ],
+      "widgets_values_named": {
+        "value_1": "[Intro]\nHey-Yeah!\nEs ist mal wieder so weit. [en](Oh, It's on!)[de]\nLoggin, Buchen, Freigeben, Sichern!\n[en](Yeah!) Let's go! (Again?) [de]\n\n[Verse 1]\nMorgens halb-neun, der Kaffee ist heiß.\nIch logge mich ein, Timesheet ist noch weiß!\nDie Smartcard am Start, das System ist bereit.\nEssahpee Ketts, die absolu-te Wahrheit!\n\nProjekte sind groß, die Vision ist so klar.\nStunden im System sind mein einziger Star!\nProjekt Nummern tippen, im Akkord Takt.\nIch trag' die Arbeitszeit, exakt ab!\n\n[Chorus]\n(Hey! Hey-ho!) Füll das Blatt aus!\n(Hey! Hey-ho!) Lass die Zeit raus!\nDie Stunden fließen, der Tag ist vollbracht.\nIch hab' das Timesheet, per-fekt gemacht!\n\nDie Sieben Komma Acht auf der Bahn.\nDie Mändie freut sich, alles nach Plan!\nFraunhofer rockt, wir machen es wahr.\nDas beste Timesheet. Im ganzen Jahr!\n\n[Verse 2]\nTaskfors Projekt, die Deadline im Blick.\nKlick in die Maske, trag' alles schick!\nKostenstelle check, Pee-esspee Element,\nBis jeder Manager, die Zahlen hier kennt!\n\nVon Drehsden bis München, wir forsch'n am Limit.\nJede Minute im System ist vermittelt!\nIch buche die Reise, ich buche das Team.\nMein Zeiterfassungs-Song ist jetzt mein Supreme!\n\n[Bridge]\nKein Übertrag, alles genau ein-gereicht.\nMein größtes Ziel, ist heut' end-lich erreicht!\nDie Frei-gabe steht.\nUnd ab geht's!\n\n[Chorus]\n(Hey! Hey-ho!) Füll das Blatt aus!\n(Hey! Hey-ho!) Lass die Zeit raus!\nDie Stunden fließen, das Werk ist vollbracht!\nIch hab' das Timesheet, le-gen-där gemacht!\n\nYeah, Sieben Komma Acht auf der Bahn.\nYeah, Mändie tanzt jetzt, die Freigabe kam!\nFraunhofer rockt, wir machen es wahr.\nDas beste Timesheet. Im ganzen Jahr!\n\n[Outro]\nSieben Komma Acht. (Yeah!)\nAlles perfekt gemacht! [en](Masterpiece!) \nLog out! (We're done!)\n\n[End]",
+        "value": "Das beste Timesheet - 7.8",
+        "language": "de",
+        "value_5": 385
+      }
+    },
+    {
+      "id": 3435,
+      "type": "682e9087-75ae-4cff-a746-f7e31a754287",
+      "pos": [
+        6900,
+        2140
+      ],
+      "size": [
+        340,
+        200
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "ASA-L4",
+          "name": "list",
+          "type": "*",
+          "link": 3478
+        },
+        {
+          "label": "ASA-T9",
+          "name": "list_1",
+          "type": "*",
+          "link": 3529
+        }
+      ],
+      "outputs": [
+        {
+          "name": "AUDIO",
+          "type": "AUDIO",
+          "links": [
+            3480
+          ]
+        },
+        {
+          "label": "filename",
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            3481
+          ]
+        }
+      ],
+      "properties": {
+        "previewExposures": []
+      },
+      "widgets_values": [
+        true
+      ],
+      "widgets_values_named": {
+        "generate_audio_codes": true
+      }
+    },
+    {
+      "id": 3436,
+      "type": "SaveAudioAdvanced",
+      "pos": [
+        7260,
+        2140
+      ],
+      "size": [
+        240,
+        200
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 3480
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 3481
+        }
+      ],
+      "outputs": [
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "links": []
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveAudioAdvanced"
+      },
+      "widgets_values": [
+        "",
+        "mp3",
+        "V0"
+      ],
+      "widgets_values_named": {
+        "filename_prefix": "",
+        "format": "mp3",
+        "format.quality": "V0"
+      }
+    }
+  ],
+  "links": [
+    [
+      3478,
+      3433,
+      0,
+      3435,
+      0,
+      "LIST"
+    ],
+    [
+      3480,
+      3435,
+      0,
+      3436,
+      0,
+      "AUDIO"
+    ],
+    [
+      3481,
+      3435,
+      1,
+      3436,
+      1,
+      "STRING"
+    ],
+    [
+      3529,
+      2807,
+      0,
+      3435,
+      1,
+      "LIST"
+    ]
+  ],
+  "groups": [],
+  "definitions": {
+    "subgraphs": [
+      {
+        "id": "11559fab-b017-4116-90ad-dc4f1c5ea017",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioMergeTAGS-9 (2)",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            60,
+            1800,
+            128,
+            228
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            940,
+            1860,
+            128,
+            68
+          ]
+        },
+        "inputs": [
+          {
+            "id": "fc40b5d3-2428-493d-9d96-39eee2b91237",
+            "name": "value_1",
+            "type": "STRING",
+            "linkIds": [
+              1524
+            ],
+            "label": "tags",
+            "pos": [
+              164,
+              1824
+            ]
+          },
+          {
+            "id": "9f0345a2-7959-4e9e-b23b-9e7c39c68596",
+            "name": "value",
+            "type": "STRING",
+            "linkIds": [
+              1523
+            ],
+            "label": "title",
+            "pos": [
+              164,
+              1844
+            ]
+          },
+          {
+            "id": "e1fd39c0-ec89-47f3-9324-70ffc397e948",
+            "name": "value_5",
+            "type": "INT",
+            "linkIds": [
+              1525
+            ],
+            "label": "total_bars",
+            "pos": [
+              164,
+              1864
+            ]
+          },
+          {
+            "id": "cf67b083-a4db-4019-bbd3-01188a0f74bd",
+            "name": "value_2",
+            "type": "INT",
+            "linkIds": [
+              1529,
+              1533
+            ],
+            "label": "bpm",
+            "pos": [
+              164,
+              1884
+            ]
+          },
+          {
+            "id": "3537564f-aaab-46ad-9778-f31b94789560",
+            "name": "seed",
+            "type": "INT",
+            "linkIds": [
+              1528,
+              1534
+            ],
+            "pos": [
+              164,
+              1904
+            ]
+          },
+          {
+            "id": "7761a99a-b1d1-4d5f-a33e-c44f99a2dc3b",
+            "name": "keyscale",
+            "type": "COMBO",
+            "linkIds": [
+              1526,
+              1535
+            ],
+            "pos": [
+              164,
+              1924
+            ]
+          },
+          {
+            "id": "8b75f024-6fe9-4f5b-bcd7-9a6a47d66ab2",
+            "name": "cfg_scale",
+            "type": "FLOAT",
+            "linkIds": [
+              1527,
+              1536
+            ],
+            "pos": [
+              164,
+              1944
+            ]
+          },
+          {
+            "id": "783afd73-46c0-4aa6-b972-fc54005aeec0",
+            "name": "temperature",
+            "type": "FLOAT",
+            "linkIds": [
+              1374,
+              1375
+            ],
+            "pos": [
+              164,
+              1964
+            ]
+          },
+          {
+            "id": "cb591b14-b023-4c2d-8b98-1a72b9a108f8",
+            "name": "value_3",
+            "type": "INT",
+            "linkIds": [
+              1495
+            ],
+            "label": "steps",
+            "pos": [
+              164,
+              1984
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "1dde9f66-849e-4631-9140-4e9a2c24d828",
+            "name": "LIST",
+            "type": "LIST",
+            "linkIds": [
+              1537
+            ],
+            "label": "ASA-T9",
+            "pos": [
+              964,
+              1884
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 2589,
+            "type": "PrimitiveStringMultiline",
+            "pos": [
+              300,
+              1780
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1524
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  1530
+                ]
+              }
+            ],
+            "title": "tags",
+            "properties": {
+              "Node name for S&R": "PrimitiveStringMultiline"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            },
+            "shape": 2
+          },
+          {
+            "id": 2590,
+            "type": "PrimitiveString",
+            "pos": [
+              300,
+              1820
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1523
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  1531
+                ]
+              }
+            ],
+            "title": "title",
+            "properties": {
+              "Node name for S&R": "PrimitiveString"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            }
+          },
+          {
+            "id": 2591,
+            "type": "PrimitiveInt",
+            "pos": [
+              300,
+              1860
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1525
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  1532
+                ]
+              }
+            ],
+            "title": "total_bars",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              0,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 0,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 2592,
+            "type": "Basic data handling: ListCreate",
+            "pos": [
+              640,
+              1900
+            ],
+            "size": [
+              240,
+              420
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "item_0",
+                "name": "item_0",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_0"
+                },
+                "link": 1530
+              },
+              {
+                "name": "item_1",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_1"
+                },
+                "link": 1531
+              },
+              {
+                "name": "item_2",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_2"
+                },
+                "link": 1532
+              },
+              {
+                "name": "item_3",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_3"
+                },
+                "link": 1533
+              },
+              {
+                "name": "item_4",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_4"
+                },
+                "link": 1534
+              },
+              {
+                "name": "item_5",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_5"
+                },
+                "link": 1535
+              },
+              {
+                "name": "item_6",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_6"
+                },
+                "link": 1536
+              },
+              {
+                "name": "item_7",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_7"
+                },
+                "link": 1375
+              },
+              {
+                "name": "item_8",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_8"
+                },
+                "link": 1496
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "links": [
+                  1537
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListCreate"
+            },
+            "widgets_values": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "widgets_values_named": {
+              "item_0": "",
+              "item_1": "",
+              "item_2": "",
+              "item_3": "",
+              "item_4": "",
+              "item_5": "",
+              "item_6": "",
+              "item_7": "",
+              "item_8": "",
+              "item_9": ""
+            }
+          },
+          {
+            "id": 2593,
+            "type": "TextEncodeAceStepAudio1.5",
+            "pos": [
+              300,
+              2040
+            ],
+            "size": [
+              300,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 4,
+            "mode": 4,
+            "inputs": [
+              {
+                "localized_name": "clip",
+                "name": "clip",
+                "type": "CLIP",
+                "link": null
+              },
+              {
+                "localized_name": "seed",
+                "name": "seed",
+                "type": "INT",
+                "widget": {
+                  "name": "seed"
+                },
+                "link": 1528
+              },
+              {
+                "localized_name": "bpm",
+                "name": "bpm",
+                "type": "INT",
+                "widget": {
+                  "name": "bpm"
+                },
+                "link": 1529
+              },
+              {
+                "localized_name": "keyscale",
+                "name": "keyscale",
+                "type": "COMBO",
+                "widget": {
+                  "name": "keyscale"
+                },
+                "link": 1526
+              },
+              {
+                "localized_name": "cfg_scale",
+                "name": "cfg_scale",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "cfg_scale"
+                },
+                "link": 1527
+              },
+              {
+                "localized_name": "temperature",
+                "name": "temperature",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "temperature"
+                },
+                "link": 1374
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "CONDITIONING",
+                "name": "CONDITIONING",
+                "type": "CONDITIONING",
+                "links": null
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "TextEncodeAceStepAudio1.5"
+            },
+            "widgets_values": [
+              "",
+              "",
+              0,
+              "fixed",
+              120,
+              120,
+              "2",
+              "en",
+              "C major",
+              true,
+              2,
+              0.85,
+              0.9,
+              0,
+              0
+            ],
+            "widgets_values_named": {
+              "tags": "",
+              "lyrics": "",
+              "seed": 0,
+              "control_after_generate": "fixed",
+              "bpm": 120,
+              "duration": 120,
+              "timesignature": "2",
+              "language": "en",
+              "keyscale": "C major",
+              "generate_audio_codes": true,
+              "cfg_scale": 2,
+              "temperature": 0.85,
+              "top_p": 0.9,
+              "top_k": 0,
+              "min_p": 0
+            }
+          },
+          {
+            "id": 2634,
+            "type": "PrimitiveInt",
+            "pos": [
+              300,
+              1900
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1495
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  1496
+                ]
+              }
+            ],
+            "title": "steps",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              20,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 20,
+              "control_after_generate": "fixed"
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 1523,
+            "origin_id": -10,
+            "origin_slot": 1,
+            "target_id": 2590,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1524,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 2589,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1525,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 2591,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 1526,
+            "origin_id": -10,
+            "origin_slot": 5,
+            "target_id": 2593,
+            "target_slot": 3,
+            "type": "COMBO"
+          },
+          {
+            "id": 1527,
+            "origin_id": -10,
+            "origin_slot": 6,
+            "target_id": 2593,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1528,
+            "origin_id": -10,
+            "origin_slot": 4,
+            "target_id": 2593,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1529,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 2593,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 1530,
+            "origin_id": 2589,
+            "origin_slot": 0,
+            "target_id": 2592,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1531,
+            "origin_id": 2590,
+            "origin_slot": 0,
+            "target_id": 2592,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 1532,
+            "origin_id": 2591,
+            "origin_slot": 0,
+            "target_id": 2592,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 1533,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 2592,
+            "target_slot": 3,
+            "type": "*"
+          },
+          {
+            "id": 1534,
+            "origin_id": -10,
+            "origin_slot": 4,
+            "target_id": 2592,
+            "target_slot": 4,
+            "type": "*"
+          },
+          {
+            "id": 1535,
+            "origin_id": -10,
+            "origin_slot": 5,
+            "target_id": 2592,
+            "target_slot": 5,
+            "type": "*"
+          },
+          {
+            "id": 1536,
+            "origin_id": -10,
+            "origin_slot": 6,
+            "target_id": 2592,
+            "target_slot": 6,
+            "type": "*"
+          },
+          {
+            "id": 1537,
+            "origin_id": 2592,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 1374,
+            "origin_id": -10,
+            "origin_slot": 7,
+            "target_id": 2593,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1375,
+            "origin_id": -10,
+            "origin_slot": 7,
+            "target_id": 2592,
+            "target_slot": 7,
+            "type": "*"
+          },
+          {
+            "id": 1495,
+            "origin_id": -10,
+            "origin_slot": 8,
+            "target_id": 2634,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 1496,
+            "origin_id": 2634,
+            "origin_slot": 0,
+            "target_id": 2592,
+            "target_slot": 8,
+            "type": "INT"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "c2c6a520-d31a-4a3e-a094-5d0155e7253d",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioMergeTAGS-9 (1)",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            60,
+            1800,
+            128,
+            228
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            940,
+            1860,
+            128,
+            68
+          ]
+        },
+        "inputs": [
+          {
+            "id": "fc40b5d3-2428-493d-9d96-39eee2b91237",
+            "name": "value_1",
+            "type": "STRING",
+            "linkIds": [
+              1798
+            ],
+            "label": "tags",
+            "pos": [
+              164,
+              1824
+            ]
+          },
+          {
+            "id": "9f0345a2-7959-4e9e-b23b-9e7c39c68596",
+            "name": "value",
+            "type": "STRING",
+            "linkIds": [
+              1797
+            ],
+            "label": "title",
+            "pos": [
+              164,
+              1844
+            ]
+          },
+          {
+            "id": "e1fd39c0-ec89-47f3-9324-70ffc397e948",
+            "name": "value_5",
+            "type": "INT",
+            "linkIds": [
+              1799
+            ],
+            "label": "total_bars",
+            "pos": [
+              164,
+              1864
+            ]
+          },
+          {
+            "id": "cf67b083-a4db-4019-bbd3-01188a0f74bd",
+            "name": "value_2",
+            "type": "INT",
+            "linkIds": [
+              1803,
+              1807
+            ],
+            "label": "bpm",
+            "pos": [
+              164,
+              1884
+            ]
+          },
+          {
+            "id": "3537564f-aaab-46ad-9778-f31b94789560",
+            "name": "seed",
+            "type": "INT",
+            "linkIds": [
+              1802,
+              1808
+            ],
+            "pos": [
+              164,
+              1904
+            ]
+          },
+          {
+            "id": "7761a99a-b1d1-4d5f-a33e-c44f99a2dc3b",
+            "name": "keyscale",
+            "type": "COMBO",
+            "linkIds": [
+              1800,
+              1809
+            ],
+            "pos": [
+              164,
+              1924
+            ]
+          },
+          {
+            "id": "8b75f024-6fe9-4f5b-bcd7-9a6a47d66ab2",
+            "name": "cfg_scale",
+            "type": "FLOAT",
+            "linkIds": [
+              1801,
+              1810
+            ],
+            "pos": [
+              164,
+              1944
+            ]
+          },
+          {
+            "id": "783afd73-46c0-4aa6-b972-fc54005aeec0",
+            "name": "temperature",
+            "type": "FLOAT",
+            "linkIds": [
+              1812,
+              1813
+            ],
+            "pos": [
+              164,
+              1964
+            ]
+          },
+          {
+            "id": "cb591b14-b023-4c2d-8b98-1a72b9a108f8",
+            "name": "value_3",
+            "type": "INT",
+            "linkIds": [
+              1814
+            ],
+            "label": "steps",
+            "pos": [
+              164,
+              1984
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "1dde9f66-849e-4631-9140-4e9a2c24d828",
+            "name": "LIST",
+            "type": "LIST",
+            "linkIds": [
+              1811
+            ],
+            "label": "ASA-T9",
+            "pos": [
+              964,
+              1884
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 2801,
+            "type": "PrimitiveStringMultiline",
+            "pos": [
+              300,
+              1780
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1798
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  1804
+                ]
+              }
+            ],
+            "title": "tags",
+            "properties": {
+              "Node name for S&R": "PrimitiveStringMultiline"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            },
+            "shape": 2
+          },
+          {
+            "id": 2802,
+            "type": "PrimitiveString",
+            "pos": [
+              300,
+              1820
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1797
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  1805
+                ]
+              }
+            ],
+            "title": "title",
+            "properties": {
+              "Node name for S&R": "PrimitiveString"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            }
+          },
+          {
+            "id": 2803,
+            "type": "PrimitiveInt",
+            "pos": [
+              300,
+              1860
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1799
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  1806
+                ]
+              }
+            ],
+            "title": "total_bars",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              0,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 0,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 2804,
+            "type": "Basic data handling: ListCreate",
+            "pos": [
+              640,
+              1900
+            ],
+            "size": [
+              240,
+              420
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "item_0",
+                "name": "item_0",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_0"
+                },
+                "link": 1804
+              },
+              {
+                "name": "item_1",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_1"
+                },
+                "link": 1805
+              },
+              {
+                "name": "item_2",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_2"
+                },
+                "link": 1806
+              },
+              {
+                "name": "item_3",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_3"
+                },
+                "link": 1807
+              },
+              {
+                "name": "item_4",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_4"
+                },
+                "link": 1808
+              },
+              {
+                "name": "item_5",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_5"
+                },
+                "link": 1809
+              },
+              {
+                "name": "item_6",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_6"
+                },
+                "link": 1810
+              },
+              {
+                "name": "item_7",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_7"
+                },
+                "link": 1813
+              },
+              {
+                "name": "item_8",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_8"
+                },
+                "link": 1815
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "links": [
+                  1811
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListCreate"
+            },
+            "widgets_values": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "widgets_values_named": {
+              "item_0": "",
+              "item_1": "",
+              "item_2": "",
+              "item_3": "",
+              "item_4": "",
+              "item_5": "",
+              "item_6": "",
+              "item_7": "",
+              "item_8": "",
+              "item_9": ""
+            }
+          },
+          {
+            "id": 2805,
+            "type": "TextEncodeAceStepAudio1.5",
+            "pos": [
+              300,
+              2040
+            ],
+            "size": [
+              300,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 4,
+            "mode": 4,
+            "inputs": [
+              {
+                "localized_name": "clip",
+                "name": "clip",
+                "type": "CLIP",
+                "link": null
+              },
+              {
+                "localized_name": "seed",
+                "name": "seed",
+                "type": "INT",
+                "widget": {
+                  "name": "seed"
+                },
+                "link": 1802
+              },
+              {
+                "localized_name": "bpm",
+                "name": "bpm",
+                "type": "INT",
+                "widget": {
+                  "name": "bpm"
+                },
+                "link": 1803
+              },
+              {
+                "localized_name": "keyscale",
+                "name": "keyscale",
+                "type": "COMBO",
+                "widget": {
+                  "name": "keyscale"
+                },
+                "link": 1800
+              },
+              {
+                "localized_name": "cfg_scale",
+                "name": "cfg_scale",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "cfg_scale"
+                },
+                "link": 1801
+              },
+              {
+                "localized_name": "temperature",
+                "name": "temperature",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "temperature"
+                },
+                "link": 1812
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "CONDITIONING",
+                "name": "CONDITIONING",
+                "type": "CONDITIONING",
+                "links": null
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "TextEncodeAceStepAudio1.5"
+            },
+            "widgets_values": [
+              "",
+              "",
+              0,
+              "fixed",
+              120,
+              120,
+              "2",
+              "en",
+              "C major",
+              true,
+              2,
+              0.85,
+              0.9,
+              0,
+              0
+            ],
+            "widgets_values_named": {
+              "tags": "",
+              "lyrics": "",
+              "seed": 0,
+              "control_after_generate": "fixed",
+              "bpm": 120,
+              "duration": 120,
+              "timesignature": "2",
+              "language": "en",
+              "keyscale": "C major",
+              "generate_audio_codes": true,
+              "cfg_scale": 2,
+              "temperature": 0.85,
+              "top_p": 0.9,
+              "top_k": 0,
+              "min_p": 0
+            }
+          },
+          {
+            "id": 2806,
+            "type": "PrimitiveInt",
+            "pos": [
+              300,
+              1900
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 1814
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  1815
+                ]
+              }
+            ],
+            "title": "steps",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              20,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 20,
+              "control_after_generate": "fixed"
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 1797,
+            "origin_id": -10,
+            "origin_slot": 1,
+            "target_id": 2802,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1798,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 2801,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1799,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 2803,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 1800,
+            "origin_id": -10,
+            "origin_slot": 5,
+            "target_id": 2805,
+            "target_slot": 3,
+            "type": "COMBO"
+          },
+          {
+            "id": 1801,
+            "origin_id": -10,
+            "origin_slot": 6,
+            "target_id": 2805,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1802,
+            "origin_id": -10,
+            "origin_slot": 4,
+            "target_id": 2805,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1803,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 2805,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 1804,
+            "origin_id": 2801,
+            "origin_slot": 0,
+            "target_id": 2804,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 1805,
+            "origin_id": 2802,
+            "origin_slot": 0,
+            "target_id": 2804,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 1806,
+            "origin_id": 2803,
+            "origin_slot": 0,
+            "target_id": 2804,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 1807,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 2804,
+            "target_slot": 3,
+            "type": "*"
+          },
+          {
+            "id": 1808,
+            "origin_id": -10,
+            "origin_slot": 4,
+            "target_id": 2804,
+            "target_slot": 4,
+            "type": "*"
+          },
+          {
+            "id": 1809,
+            "origin_id": -10,
+            "origin_slot": 5,
+            "target_id": 2804,
+            "target_slot": 5,
+            "type": "*"
+          },
+          {
+            "id": 1810,
+            "origin_id": -10,
+            "origin_slot": 6,
+            "target_id": 2804,
+            "target_slot": 6,
+            "type": "*"
+          },
+          {
+            "id": 1811,
+            "origin_id": 2804,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 1812,
+            "origin_id": -10,
+            "origin_slot": 7,
+            "target_id": 2805,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1813,
+            "origin_id": -10,
+            "origin_slot": 7,
+            "target_id": 2804,
+            "target_slot": 7,
+            "type": "*"
+          },
+          {
+            "id": 1814,
+            "origin_id": -10,
+            "origin_slot": 8,
+            "target_id": 2806,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 1815,
+            "origin_id": 2806,
+            "origin_slot": 0,
+            "target_id": 2804,
+            "target_slot": 8,
+            "type": "INT"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "0f3aec7f-b350-4dea-a2e8-c33823896dac",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioMergeLYRICS-4",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            100,
+            1760,
+            128,
+            128
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            900,
+            1780,
+            128,
+            68
+          ]
+        },
+        "inputs": [
+          {
+            "id": "fc40b5d3-2428-493d-9d96-39eee2b91237",
+            "name": "value_1",
+            "type": "STRING",
+            "linkIds": [
+              3267
+            ],
+            "label": "lyrics",
+            "pos": [
+              204,
+              1784
+            ]
+          },
+          {
+            "id": "9f0345a2-7959-4e9e-b23b-9e7c39c68596",
+            "name": "value",
+            "type": "STRING",
+            "linkIds": [
+              3266
+            ],
+            "label": "title",
+            "pos": [
+              204,
+              1804
+            ]
+          },
+          {
+            "id": "19ba4f42-96a5-4b24-bf2c-b23186955b52",
+            "name": "language",
+            "type": "COMBO",
+            "linkIds": [
+              3272,
+              3273
+            ],
+            "pos": [
+              204,
+              1824
+            ]
+          },
+          {
+            "id": "e1fd39c0-ec89-47f3-9324-70ffc397e948",
+            "name": "value_5",
+            "type": "INT",
+            "linkIds": [
+              3268
+            ],
+            "label": "total_syllables",
+            "pos": [
+              204,
+              1844
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "1dde9f66-849e-4631-9140-4e9a2c24d828",
+            "name": "LIST",
+            "type": "LIST",
+            "linkIds": [
+              3271
+            ],
+            "label": "ASA-T4",
+            "pos": [
+              924,
+              1804
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 3359,
+            "type": "PrimitiveStringMultiline",
+            "pos": [
+              300,
+              1760
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3267
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3269
+                ]
+              }
+            ],
+            "title": "lyrics",
+            "properties": {
+              "Node name for S&R": "PrimitiveStringMultiline"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            },
+            "shape": 2
+          },
+          {
+            "id": 3360,
+            "type": "PrimitiveString",
+            "pos": [
+              300,
+              1800
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3266
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3270
+                ]
+              }
+            ],
+            "title": "title",
+            "properties": {
+              "Node name for S&R": "PrimitiveString"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            }
+          },
+          {
+            "id": 3361,
+            "type": "PrimitiveInt",
+            "pos": [
+              300,
+              1880
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3268
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3274
+                ]
+              }
+            ],
+            "title": "total_syllables",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              0,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 0,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 3362,
+            "type": "Basic data handling: ListCreate",
+            "pos": [
+              620,
+              1820
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "item_0",
+                "name": "item_0",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_0"
+                },
+                "link": 3269
+              },
+              {
+                "name": "item_1",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_1"
+                },
+                "link": 3270
+              },
+              {
+                "name": "item_2",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_2"
+                },
+                "link": 3273
+              },
+              {
+                "name": "item_3",
+                "shape": 7,
+                "type": "*",
+                "widget": {
+                  "name": "item_3"
+                },
+                "link": 3274
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "links": [
+                  3271
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListCreate"
+            },
+            "widgets_values": [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "widgets_values_named": {
+              "item_0": "",
+              "item_1": "",
+              "item_2": "",
+              "item_3": "",
+              "item_4": ""
+            }
+          },
+          {
+            "id": 3363,
+            "type": "TextEncodeAceStepAudio1.5",
+            "pos": [
+              300,
+              1840
+            ],
+            "size": [
+              300,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 4,
+            "mode": 4,
+            "inputs": [
+              {
+                "localized_name": "clip",
+                "name": "clip",
+                "type": "CLIP",
+                "link": null
+              },
+              {
+                "localized_name": "language",
+                "name": "language",
+                "type": "COMBO",
+                "widget": {
+                  "name": "language"
+                },
+                "link": 3272
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "CONDITIONING",
+                "name": "CONDITIONING",
+                "type": "CONDITIONING",
+                "links": null
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "TextEncodeAceStepAudio1.5"
+            },
+            "widgets_values": [
+              "",
+              "",
+              0,
+              "fixed",
+              120,
+              120,
+              "2",
+              "en",
+              "C major",
+              true,
+              2,
+              0.85,
+              0.9,
+              0,
+              0
+            ],
+            "widgets_values_named": {
+              "tags": "",
+              "lyrics": "",
+              "seed": 0,
+              "control_after_generate": "fixed",
+              "bpm": 120,
+              "duration": 120,
+              "timesignature": "2",
+              "language": "en",
+              "keyscale": "C major",
+              "generate_audio_codes": true,
+              "cfg_scale": 2,
+              "temperature": 0.85,
+              "top_p": 0.9,
+              "top_k": 0,
+              "min_p": 0
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 3266,
+            "origin_id": -10,
+            "origin_slot": 1,
+            "target_id": 3360,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3267,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3359,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3268,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 3361,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3269,
+            "origin_id": 3359,
+            "origin_slot": 0,
+            "target_id": 3362,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3270,
+            "origin_id": 3360,
+            "origin_slot": 0,
+            "target_id": 3362,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3271,
+            "origin_id": 3362,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3272,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 3363,
+            "target_slot": 1,
+            "type": "COMBO"
+          },
+          {
+            "id": 3273,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 3362,
+            "target_slot": 2,
+            "type": "*"
+          },
+          {
+            "id": 3274,
+            "origin_id": 3361,
+            "origin_slot": 0,
+            "target_id": 3362,
+            "target_slot": 3,
+            "type": "INT"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "682e9087-75ae-4cff-a746-f7e31a754287",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioTTA-L4T9",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            700,
+            920,
+            175.458984375,
+            108
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            1520,
+            740,
+            128,
+            88
+          ]
+        },
+        "inputs": [
+          {
+            "id": "305286c2-096e-466b-b396-054ad9276476",
+            "name": "list",
+            "type": "*",
+            "linkIds": [
+              3390
+            ],
+            "label": "ASA-L4",
+            "pos": [
+              851.458984375,
+              944
+            ]
+          },
+          {
+            "id": "f2be34bc-5849-43ca-860e-e28ca01f7c99",
+            "name": "list_1",
+            "type": "*",
+            "linkIds": [
+              3393
+            ],
+            "label": "ASA-T9",
+            "pos": [
+              851.458984375,
+              964
+            ]
+          },
+          {
+            "id": "e6b3faf2-f271-4951-bc2c-185b75251490",
+            "name": "generate_audio_codes",
+            "type": "BOOLEAN",
+            "linkIds": [
+              2991
+            ],
+            "pos": [
+              851.458984375,
+              984
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "3d4eb729-36eb-402d-b686-5df26e89de07",
+            "name": "AUDIO",
+            "type": "AUDIO",
+            "linkIds": [
+              3391
+            ],
+            "pos": [
+              1544,
+              764
+            ]
+          },
+          {
+            "id": "a383a3cd-afe4-4622-8294-9abc8f3e3b70",
+            "name": "STRING",
+            "type": "STRING",
+            "linkIds": [
+              3392
+            ],
+            "label": "filename",
+            "pos": [
+              1544,
+              784
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 2881,
+            "type": "b12157aa-7b0a-46a0-8822-989cbf8f5a37",
+            "pos": [
+              900,
+              740
+            ],
+            "size": [
+              240,
+              120
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "label": "ASA-L4",
+                "localized_name": "list",
+                "name": "list",
+                "type": "*",
+                "link": 3390
+              }
+            ],
+            "outputs": [
+              {
+                "label": "lyrics",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3388
+                ]
+              },
+              {
+                "label": "title",
+                "name": "STRING_1",
+                "type": "STRING",
+                "links": [
+                  2992
+                ]
+              },
+              {
+                "label": "language",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3401
+                ]
+              },
+              {
+                "label": "total_syllables",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3402
+                ]
+              }
+            ],
+            "properties": {
+              "previewExposures": []
+            }
+          },
+          {
+            "id": 2882,
+            "type": "6b724c17-407d-44a3-98c0-009cd8c3454d",
+            "pos": [
+              1200,
+              740
+            ],
+            "size": [
+              260,
+              680
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "tags",
+                "name": "tags",
+                "type": "STRING",
+                "widget": {
+                  "name": "tags"
+                },
+                "link": 3394
+              },
+              {
+                "localized_name": "lyrics",
+                "name": "lyrics",
+                "type": "STRING",
+                "widget": {
+                  "name": "lyrics"
+                },
+                "link": 3388
+              },
+              {
+                "label": "song_title",
+                "name": "value_6",
+                "type": "STRING",
+                "widget": {
+                  "name": "value_6"
+                },
+                "link": 3389
+              },
+              {
+                "label": "total_bars",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3395
+              },
+              {
+                "label": "total_syllables",
+                "name": "value_1",
+                "type": "INT",
+                "widget": {
+                  "name": "value_1"
+                },
+                "link": 3402
+              },
+              {
+                "label": "bpm",
+                "name": "value_7",
+                "type": "INT",
+                "widget": {
+                  "name": "value_7"
+                },
+                "link": 3396
+              },
+              {
+                "label": "seed",
+                "name": "value_5",
+                "type": "INT",
+                "widget": {
+                  "name": "value_5"
+                },
+                "link": 3397
+              },
+              {
+                "name": "language",
+                "type": "COMBO",
+                "widget": {
+                  "name": "language"
+                },
+                "link": 3401
+              },
+              {
+                "name": "keyscale",
+                "type": "COMBO",
+                "widget": {
+                  "name": "keyscale"
+                },
+                "link": 3398
+              },
+              {
+                "name": "cfg_scale",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "cfg_scale"
+                },
+                "link": 3399
+              },
+              {
+                "name": "temperature",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "temperature"
+                },
+                "link": 3400
+              },
+              {
+                "name": "steps",
+                "type": "INT",
+                "widget": {
+                  "name": "steps"
+                },
+                "link": 3403
+              },
+              {
+                "name": "generate_audio_codes",
+                "type": "BOOLEAN",
+                "widget": {
+                  "name": "generate_audio_codes"
+                },
+                "link": 2991
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "AUDIO",
+                "name": "AUDIO",
+                "type": "AUDIO",
+                "links": [
+                  3391
+                ]
+              },
+              {
+                "label": "filename",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3392
+                ]
+              },
+              {
+                "label": "duration",
+                "name": "FLOAT",
+                "type": "FLOAT",
+                "links": []
+              },
+              {
+                "label": "sps",
+                "name": "FLOAT_1",
+                "type": "FLOAT",
+                "links": []
+              }
+            ],
+            "properties": {
+              "previewExposures": []
+            },
+            "widgets_values": [
+              "",
+              "",
+              "",
+              41,
+              0,
+              180,
+              20260815,
+              "de",
+              "D minor",
+              1.4999999999999964,
+              0.9,
+              1,
+              25,
+              true
+            ],
+            "widgets_values_named": {
+              "tags": "",
+              "lyrics": "",
+              "value_6": "",
+              "value": 41,
+              "value_1": 0,
+              "value_7": 180,
+              "value_5": 20260815,
+              "language": "de",
+              "keyscale": "D minor",
+              "cfg_scale": 1.4999999999999964,
+              "temperature": 0.9,
+              "batch_size": 1,
+              "steps": 25,
+              "generate_audio_codes": true
+            }
+          },
+          {
+            "id": 2883,
+            "type": "StringFormat",
+            "pos": [
+              900,
+              920
+            ],
+            "size": [
+              240,
+              160
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "a",
+                "name": "values.a",
+                "shape": 7,
+                "type": "*",
+                "link": 2992
+              },
+              {
+                "localized_name": "b",
+                "name": "values.b",
+                "shape": 7,
+                "type": "*",
+                "link": 2993
+              },
+              {
+                "localized_name": "c",
+                "name": "values.c",
+                "shape": 7,
+                "type": "*",
+                "link": null
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3389
+                ]
+              }
+            ],
+            "title": "song_title",
+            "properties": {
+              "Node name for S&R": "StringFormat"
+            },
+            "widgets_values": [
+              "{a} ({b})"
+            ],
+            "widgets_values_named": {
+              "f_string": "{a} ({b})"
+            }
+          },
+          {
+            "id": 2884,
+            "type": "1e7fd114-4f60-4287-99ab-8aa214819fc0",
+            "pos": [
+              900,
+              1120
+            ],
+            "size": [
+              240,
+              220
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "label": "ASA-T9",
+                "localized_name": "list",
+                "name": "list",
+                "type": "*",
+                "link": 3393
+              }
+            ],
+            "outputs": [
+              {
+                "label": "tags",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3394
+                ]
+              },
+              {
+                "label": "title",
+                "name": "STRING_1",
+                "type": "STRING",
+                "links": [
+                  2993
+                ]
+              },
+              {
+                "label": "total_bars",
+                "name": "INT_1",
+                "type": "INT",
+                "links": [
+                  3395
+                ]
+              },
+              {
+                "label": "bpm",
+                "name": "INT_2",
+                "type": "INT",
+                "links": [
+                  3396
+                ]
+              },
+              {
+                "label": "seed",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3397
+                ]
+              },
+              {
+                "label": "keyscale",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3398
+                ]
+              },
+              {
+                "label": "cfg_scale",
+                "name": "item_1",
+                "type": "*",
+                "links": [
+                  3399
+                ]
+              },
+              {
+                "label": "temperature",
+                "name": "FLOAT",
+                "type": "FLOAT",
+                "links": [
+                  3400
+                ]
+              },
+              {
+                "label": "steps",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3403
+                ]
+              }
+            ],
+            "properties": {
+              "previewExposures": []
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 3388,
+            "origin_id": 2881,
+            "origin_slot": 0,
+            "target_id": 2882,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3389,
+            "origin_id": 2883,
+            "origin_slot": 0,
+            "target_id": 2882,
+            "target_slot": 2,
+            "type": "STRING"
+          },
+          {
+            "id": 3390,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 2881,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3391,
+            "origin_id": 2882,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "AUDIO"
+          },
+          {
+            "id": 3392,
+            "origin_id": 2882,
+            "origin_slot": 1,
+            "target_id": -20,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3393,
+            "origin_id": -10,
+            "origin_slot": 1,
+            "target_id": 2884,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3394,
+            "origin_id": 2884,
+            "origin_slot": 0,
+            "target_id": 2882,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3395,
+            "origin_id": 2884,
+            "origin_slot": 2,
+            "target_id": 2882,
+            "target_slot": 3,
+            "type": "INT"
+          },
+          {
+            "id": 3396,
+            "origin_id": 2884,
+            "origin_slot": 3,
+            "target_id": 2882,
+            "target_slot": 5,
+            "type": "INT"
+          },
+          {
+            "id": 3397,
+            "origin_id": 2884,
+            "origin_slot": 4,
+            "target_id": 2882,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 3398,
+            "origin_id": 2884,
+            "origin_slot": 5,
+            "target_id": 2882,
+            "target_slot": 8,
+            "type": "COMBO"
+          },
+          {
+            "id": 3399,
+            "origin_id": 2884,
+            "origin_slot": 6,
+            "target_id": 2882,
+            "target_slot": 9,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3400,
+            "origin_id": 2884,
+            "origin_slot": 7,
+            "target_id": 2882,
+            "target_slot": 10,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3401,
+            "origin_id": 2881,
+            "origin_slot": 2,
+            "target_id": 2882,
+            "target_slot": 7,
+            "type": "COMBO"
+          },
+          {
+            "id": 3402,
+            "origin_id": 2881,
+            "origin_slot": 3,
+            "target_id": 2882,
+            "target_slot": 4,
+            "type": "INT"
+          },
+          {
+            "id": 3403,
+            "origin_id": 2884,
+            "origin_slot": 8,
+            "target_id": 2882,
+            "target_slot": 11,
+            "type": "INT"
+          },
+          {
+            "id": 2991,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 2882,
+            "target_slot": 12,
+            "type": "BOOLEAN"
+          },
+          {
+            "id": 2992,
+            "origin_id": 2881,
+            "origin_slot": 1,
+            "target_id": 2883,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 2993,
+            "origin_id": 2884,
+            "origin_slot": 1,
+            "target_id": 2883,
+            "target_slot": 1,
+            "type": "STRING"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "b12157aa-7b0a-46a0-8822-989cbf8f5a37",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioSplitLYRICS-4",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            1120,
+            1860,
+            128,
+            68
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            1880,
+            1820,
+            128,
+            128
+          ]
+        },
+        "inputs": [
+          {
+            "id": "3791d838-0764-48bc-aa96-30c86494ea9b",
+            "name": "list",
+            "type": "*",
+            "linkIds": [
+              3101,
+              2997,
+              2998,
+              3002
+            ],
+            "localized_name": "list",
+            "label": "ASA-L4",
+            "pos": [
+              1224,
+              1884
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "e463f96e-cafd-4b65-b519-bb71d3b2aad2",
+            "name": "STRING",
+            "type": "STRING",
+            "linkIds": [
+              2994
+            ],
+            "label": "lyrics",
+            "pos": [
+              1904,
+              1844
+            ]
+          },
+          {
+            "id": "bda22573-be11-44a2-ba19-afa32c16b6e9",
+            "name": "STRING_1",
+            "type": "STRING",
+            "linkIds": [
+              2996
+            ],
+            "label": "title",
+            "pos": [
+              1904,
+              1864
+            ]
+          },
+          {
+            "id": "a6cdd73e-b226-4d13-a65a-da5213351c6e",
+            "name": "item",
+            "type": "*",
+            "linkIds": [
+              3001
+            ],
+            "label": "language",
+            "pos": [
+              1904,
+              1884
+            ]
+          },
+          {
+            "id": "c75d4dc8-25c6-4e95-926e-0704bf48ae6a",
+            "name": "int",
+            "type": "INT",
+            "linkIds": [
+              2999
+            ],
+            "label": "total_syllables",
+            "pos": [
+              1904,
+              1904
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 3309,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1920
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3101
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3001
+                ]
+              }
+            ],
+            "title": "language",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              2
+            ],
+            "widgets_values_named": {
+              "index": 2
+            }
+          },
+          {
+            "id": 3310,
+            "type": "Basic data handling: CastToString",
+            "pos": [
+              1600,
+              1840
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3102
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "string",
+                "name": "string",
+                "type": "STRING",
+                "links": [
+                  2994
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToString"
+            }
+          },
+          {
+            "id": 3311,
+            "type": "Basic data handling: CastToString",
+            "pos": [
+              1600,
+              1880
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 2995
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "string",
+                "name": "string",
+                "type": "STRING",
+                "links": [
+                  2996
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToString"
+            }
+          },
+          {
+            "id": 3312,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1880
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 2998
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  2995
+                ]
+              }
+            ],
+            "title": "title",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              1
+            ],
+            "widgets_values_named": {
+              "index": 1
+            }
+          },
+          {
+            "id": 3313,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1840
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 4,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 2997
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3102
+                ]
+              }
+            ],
+            "title": "lyrics",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              0
+            ],
+            "widgets_values_named": {
+              "index": 0
+            }
+          },
+          {
+            "id": 3314,
+            "type": "Basic data handling: CastToInt",
+            "pos": [
+              1600,
+              1960
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3000
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "int",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  2999
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToInt"
+            }
+          },
+          {
+            "id": 3315,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1960
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 6,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3002
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3000
+                ]
+              }
+            ],
+            "title": "total_syllables",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              3
+            ],
+            "widgets_values_named": {
+              "index": 3
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 3101,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3309,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3102,
+            "origin_id": 3313,
+            "origin_slot": 0,
+            "target_id": 3310,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 2994,
+            "origin_id": 3310,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 2995,
+            "origin_id": 3312,
+            "origin_slot": 0,
+            "target_id": 3311,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 2996,
+            "origin_id": 3311,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 2997,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3313,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 2998,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3312,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 2999,
+            "origin_id": 3314,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 3,
+            "type": "INT"
+          },
+          {
+            "id": 3000,
+            "origin_id": 3315,
+            "origin_slot": 0,
+            "target_id": 3314,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3001,
+            "origin_id": 3309,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 2,
+            "type": "*"
+          },
+          {
+            "id": 3002,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3315,
+            "target_slot": 0,
+            "type": "LIST"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "6b724c17-407d-44a3-98c0-009cd8c3454d",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioTTA",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            1860,
+            1140,
+            175.458984375,
+            328
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            4180,
+            1140,
+            128,
+            128
+          ]
+        },
+        "inputs": [
+          {
+            "id": "4b282708-fedb-4010-b8f1-3dc11ceed991",
+            "name": "tags",
+            "type": "STRING",
+            "linkIds": [
+              3014
+            ],
+            "localized_name": "tags",
+            "pos": [
+              2011.458984375,
+              1164
+            ]
+          },
+          {
+            "id": "40ee263d-7b69-4ad3-b62c-e99c5a93dbb7",
+            "name": "lyrics",
+            "type": "STRING",
+            "linkIds": [
+              3015
+            ],
+            "localized_name": "lyrics",
+            "pos": [
+              2011.458984375,
+              1184
+            ]
+          },
+          {
+            "id": "eb1655cb-2045-4973-bbbd-840b684f1df3",
+            "name": "value_6",
+            "type": "STRING",
+            "linkIds": [
+              3025
+            ],
+            "label": "song_title",
+            "pos": [
+              2011.458984375,
+              1204
+            ]
+          },
+          {
+            "id": "28f72f24-7af2-4ccd-875e-103be1254d7e",
+            "name": "value",
+            "type": "INT",
+            "linkIds": [
+              3016
+            ],
+            "label": "total_bars",
+            "pos": [
+              2011.458984375,
+              1224
+            ]
+          },
+          {
+            "id": "d127c805-68cd-480e-b51e-df238aae0478",
+            "name": "value_1",
+            "type": "INT",
+            "linkIds": [
+              3017
+            ],
+            "label": "total_syllables",
+            "pos": [
+              2011.458984375,
+              1244
+            ]
+          },
+          {
+            "id": "b9a24258-d2fa-48ff-ab60-8b3635bd8151",
+            "name": "value_7",
+            "type": "INT",
+            "linkIds": [
+              3030
+            ],
+            "label": "bpm",
+            "pos": [
+              2011.458984375,
+              1264
+            ]
+          },
+          {
+            "id": "5081c041-ffd8-4b99-a60d-37925cb0b299",
+            "name": "value_5",
+            "type": "INT",
+            "linkIds": [
+              3018
+            ],
+            "label": "seed",
+            "pos": [
+              2011.458984375,
+              1284
+            ]
+          },
+          {
+            "id": "b2cd4f3c-5543-4524-b3fd-71d1399e2998",
+            "name": "language",
+            "type": "COMBO",
+            "linkIds": [
+              3021
+            ],
+            "pos": [
+              2011.458984375,
+              1304
+            ]
+          },
+          {
+            "id": "2181add0-30c2-4547-adcc-d7b180d83f6f",
+            "name": "keyscale",
+            "type": "COMBO",
+            "linkIds": [
+              3022,
+              3044
+            ],
+            "pos": [
+              2011.458984375,
+              1324
+            ]
+          },
+          {
+            "id": "ee1b1ecf-d58b-4663-9a09-d7aac824c67c",
+            "name": "cfg_scale",
+            "type": "FLOAT",
+            "linkIds": [
+              3023,
+              3045
+            ],
+            "pos": [
+              2011.458984375,
+              1344
+            ]
+          },
+          {
+            "id": "f2dc65b9-4661-48ac-b3f9-d5a467b99b4f",
+            "name": "temperature",
+            "type": "FLOAT",
+            "linkIds": [
+              3024,
+              3046
+            ],
+            "pos": [
+              2011.458984375,
+              1364
+            ]
+          },
+          {
+            "id": "b22abd3b-9d36-40ab-86a3-c04e25007225",
+            "name": "batch_size",
+            "type": "INT",
+            "linkIds": [
+              3028
+            ],
+            "pos": [
+              2011.458984375,
+              1384
+            ]
+          },
+          {
+            "id": "4f3e7301-06c7-440c-8c58-9ee80cb4f777",
+            "name": "steps",
+            "type": "INT",
+            "linkIds": [
+              3033
+            ],
+            "pos": [
+              2011.458984375,
+              1404
+            ]
+          },
+          {
+            "id": "b7f3d29f-d001-4ae9-a963-2c5d43455d02",
+            "name": "generate_audio_codes",
+            "type": "BOOLEAN",
+            "linkIds": [
+              2990
+            ],
+            "pos": [
+              2011.458984375,
+              1424
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "06b90c37-8bd4-4756-8001-25d366d35055",
+            "name": "AUDIO",
+            "type": "AUDIO",
+            "linkIds": [
+              3027
+            ],
+            "localized_name": "AUDIO",
+            "pos": [
+              4204,
+              1164
+            ]
+          },
+          {
+            "id": "16b07c39-5d42-49bb-a662-ae6d2ddbd9c0",
+            "name": "STRING",
+            "type": "STRING",
+            "linkIds": [
+              3026
+            ],
+            "label": "filename",
+            "pos": [
+              4204,
+              1184
+            ]
+          },
+          {
+            "id": "a0b4641a-b1c8-48c7-ace2-26a10e340507",
+            "name": "FLOAT",
+            "type": "FLOAT",
+            "linkIds": [
+              3029
+            ],
+            "label": "duration",
+            "pos": [
+              4204,
+              1204
+            ]
+          },
+          {
+            "id": "73df3133-78ba-4948-8167-429dbe8a13c4",
+            "name": "FLOAT_1",
+            "type": "FLOAT",
+            "linkIds": [
+              3031
+            ],
+            "label": "sps",
+            "pos": [
+              4204,
+              1224
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 3316,
+            "type": "PrimitiveInt",
+            "pos": [
+              2460,
+              2020
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 9,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3030
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3003,
+                  3035,
+                  3040
+                ]
+              }
+            ],
+            "title": "bpm",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              210,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 210,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 3317,
+            "type": "ComfyMathExpression",
+            "pos": [
+              2860,
+              2020
+            ],
+            "size": [
+              680,
+              160
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 10,
+            "mode": 0,
+            "inputs": [
+              {
+                "label": "a",
+                "localized_name": "a",
+                "name": "values.a",
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": 3034
+              },
+              {
+                "localized_name": "b",
+                "name": "values.b",
+                "shape": 7,
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": 3035
+              },
+              {
+                "localized_name": "c",
+                "name": "values.c",
+                "shape": 7,
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": null
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "FLOAT",
+                "name": "FLOAT",
+                "type": "FLOAT",
+                "links": [
+                  3004,
+                  3005,
+                  3029,
+                  3037,
+                  3043
+                ]
+              },
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": null
+              },
+              {
+                "localized_name": "BOOL",
+                "name": "BOOL",
+                "type": "BOOLEAN",
+                "links": null
+              }
+            ],
+            "title": "duration = total_bars* beats_per_bar * 60 / bpm",
+            "properties": {
+              "Node name for S&R": "ComfyMathExpression"
+            },
+            "widgets_values": [
+              "a * 4 * 60 / b"
+            ],
+            "widgets_values_named": {
+              "expression": "a * 4 * 60 / b"
+            }
+          },
+          {
+            "id": 3318,
+            "type": "EmptyAceStep1.5LatentAudio",
+            "pos": [
+              3560,
+              1660
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 11,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "seconds",
+                "name": "seconds",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "seconds"
+                },
+                "link": 3005
+              },
+              {
+                "localized_name": "batch_size",
+                "name": "batch_size",
+                "type": "INT",
+                "widget": {
+                  "name": "batch_size"
+                },
+                "link": 3028
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "LATENT",
+                "name": "LATENT",
+                "type": "LATENT",
+                "links": [
+                  3010
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "EmptyAceStep1.5LatentAudio",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            },
+            "widgets_values": [
+              101.5,
+              1
+            ],
+            "widgets_values_named": {
+              "seconds": 101.5,
+              "batch_size": 1
+            }
+          },
+          {
+            "id": 3319,
+            "type": "PrimitiveInt",
+            "pos": [
+              2460,
+              1740
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {},
+            "order": 12,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3016
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3034,
+                  3039
+                ]
+              }
+            ],
+            "title": "total_bars",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              43,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 43,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 3320,
+            "type": "ConditioningZeroOut",
+            "pos": [
+              3560,
+              1580
+            ],
+            "size": [
+              380,
+              40
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 13,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "conditioning",
+                "name": "conditioning",
+                "type": "CONDITIONING",
+                "link": 3006
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "CONDITIONING",
+                "name": "CONDITIONING",
+                "type": "CONDITIONING",
+                "links": [
+                  3009
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "ConditioningZeroOut",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            }
+          },
+          {
+            "id": 3321,
+            "type": "VAELoader",
+            "pos": [
+              2460,
+              1620
+            ],
+            "size": [
+              380,
+              80
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [],
+            "outputs": [
+              {
+                "localized_name": "VAE",
+                "name": "VAE",
+                "type": "VAE",
+                "links": [
+                  3012
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "VAELoader",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1",
+              "models": [
+                {
+                  "name": "ace_1.5_vae.safetensors",
+                  "url": "https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/vae/ace_1.5_vae.safetensors",
+                  "directory": "vae"
+                }
+              ]
+            },
+            "widgets_values": [
+              "ace_1.5_vae.safetensors"
+            ],
+            "widgets_values_named": {
+              "vae_name": "ace_1.5_vae.safetensors"
+            }
+          },
+          {
+            "id": 3322,
+            "type": "KSampler",
+            "pos": [
+              3560,
+              1260
+            ],
+            "size": [
+              380,
+              280
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 14,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "model",
+                "name": "model",
+                "type": "MODEL",
+                "link": 3007
+              },
+              {
+                "localized_name": "positive",
+                "name": "positive",
+                "type": "CONDITIONING",
+                "link": 3008
+              },
+              {
+                "localized_name": "negative",
+                "name": "negative",
+                "type": "CONDITIONING",
+                "link": 3009
+              },
+              {
+                "localized_name": "latent_image",
+                "name": "latent_image",
+                "type": "LATENT",
+                "link": 3010
+              },
+              {
+                "localized_name": "seed",
+                "name": "seed",
+                "type": "INT",
+                "widget": {
+                  "name": "seed"
+                },
+                "link": 3020
+              },
+              {
+                "localized_name": "steps",
+                "name": "steps",
+                "type": "INT",
+                "widget": {
+                  "name": "steps"
+                },
+                "link": 3033
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "LATENT",
+                "name": "LATENT",
+                "type": "LATENT",
+                "slot_index": 0,
+                "links": [
+                  3011
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "KSampler",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            },
+            "widgets_values": [
+              20260903,
+              "fixed",
+              10,
+              1,
+              "euler",
+              "simple",
+              1
+            ],
+            "widgets_values_named": {
+              "seed": 20260903,
+              "control_after_generate": "fixed",
+              "steps": 10,
+              "cfg": 1,
+              "sampler_name": "euler",
+              "scheduler": "simple",
+              "denoise": 1
+            }
+          },
+          {
+            "id": 3323,
+            "type": "VAEDecodeAudio",
+            "pos": [
+              3560,
+              1800
+            ],
+            "size": [
+              380,
+              80
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 15,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "samples",
+                "name": "samples",
+                "type": "LATENT",
+                "link": 3011
+              },
+              {
+                "localized_name": "vae",
+                "name": "vae",
+                "type": "VAE",
+                "link": 3012
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "AUDIO",
+                "name": "AUDIO",
+                "type": "AUDIO",
+                "links": [
+                  3027
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "VAEDecodeAudio",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            }
+          },
+          {
+            "id": 3324,
+            "type": "DualCLIPLoader",
+            "pos": [
+              2460,
+              1420
+            ],
+            "size": [
+              380,
+              160
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [],
+            "outputs": [
+              {
+                "localized_name": "CLIP",
+                "name": "CLIP",
+                "type": "CLIP",
+                "links": [
+                  3032
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "DualCLIPLoader",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1",
+              "models": [
+                {
+                  "name": "qwen_0.6b_ace15.safetensors",
+                  "url": "https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/text_encoders/qwen_0.6b_ace15.safetensors",
+                  "directory": "text_encoders"
+                },
+                {
+                  "name": "qwen_1.7b_ace15.safetensors",
+                  "url": "https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/text_encoders/qwen_1.7b_ace15.safetensors",
+                  "directory": "text_encoders"
+                }
+              ]
+            },
+            "widgets_values": [
+              "qwen_0.6b_ace15.safetensors",
+              "qwen_1.7b_ace15.safetensors",
+              "ace",
+              "default"
+            ],
+            "widgets_values_named": {
+              "clip_name1": "qwen_0.6b_ace15.safetensors",
+              "clip_name2": "qwen_1.7b_ace15.safetensors",
+              "type": "ace",
+              "device": "default"
+            }
+          },
+          {
+            "id": 2831,
+            "type": "UNETLoader",
+            "pos": [
+              2460,
+              1280
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [],
+            "outputs": [
+              {
+                "localized_name": "MODEL",
+                "name": "MODEL",
+                "type": "MODEL",
+                "links": [
+                  3013
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "UNETLoader",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1",
+              "models": [
+                {
+                  "name": "acestep_v1.5_turbo.safetensors",
+                  "url": "https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/diffusion_models/acestep_v1.5_turbo.safetensors",
+                  "directory": "diffusion_models"
+                }
+              ]
+            },
+            "widgets_values": [
+              "acestep_v1.5_turbo.safetensors",
+              "fp8_e4m3fn_fast"
+            ],
+            "widgets_values_named": {
+              "unet_name": "acestep_v1.5_turbo.safetensors",
+              "weight_dtype": "fp8_e4m3fn_fast"
+            }
+          },
+          {
+            "id": 2832,
+            "type": "ModelSamplingAuraFlow",
+            "pos": [
+              3560,
+              1140
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "model",
+                "name": "model",
+                "type": "MODEL",
+                "link": 3013
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "MODEL",
+                "name": "MODEL",
+                "type": "MODEL",
+                "links": [
+                  3007
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "ModelSamplingAuraFlow",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            },
+            "widgets_values": [
+              3,
+              "flow"
+            ],
+            "widgets_values_named": {
+              "shift": 3,
+              "sampling": "flow"
+            }
+          },
+          {
+            "id": 2833,
+            "type": "PrimitiveInt",
+            "pos": [
+              2460,
+              2160
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {},
+            "order": 4,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3018
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3019,
+                  3020,
+                  3041
+                ]
+              }
+            ],
+            "title": "seed",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              20260903,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 20260903,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 2834,
+            "type": "PrimitiveString",
+            "pos": [
+              2460,
+              1140
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "STRING",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3025
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3038
+                ]
+              }
+            ],
+            "title": "song_title",
+            "properties": {
+              "Node name for S&R": "PrimitiveString"
+            },
+            "widgets_values": [
+              ""
+            ],
+            "widgets_values_named": {
+              "value": ""
+            }
+          },
+          {
+            "id": 2835,
+            "type": "ComfyMathExpression",
+            "pos": [
+              2860,
+              2220
+            ],
+            "size": [
+              680,
+              160
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 6,
+            "mode": 0,
+            "inputs": [
+              {
+                "label": "a",
+                "localized_name": "a",
+                "name": "values.a",
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": 3036
+              },
+              {
+                "localized_name": "b",
+                "name": "values.b",
+                "shape": 7,
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": 3037
+              },
+              {
+                "localized_name": "c",
+                "name": "values.c",
+                "shape": 7,
+                "type": "FLOAT,INT,BOOLEAN",
+                "link": null
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "FLOAT",
+                "name": "FLOAT",
+                "type": "FLOAT",
+                "links": [
+                  3031,
+                  3042
+                ]
+              },
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": []
+              },
+              {
+                "localized_name": "BOOL",
+                "name": "BOOL",
+                "type": "BOOLEAN",
+                "links": null
+              }
+            ],
+            "title": "syllables_per_second = total_syllables / duration",
+            "properties": {
+              "Node name for S&R": "ComfyMathExpression"
+            },
+            "widgets_values": [
+              "a / b"
+            ],
+            "widgets_values_named": {
+              "expression": "a / b"
+            }
+          },
+          {
+            "id": 2836,
+            "type": "PrimitiveInt",
+            "pos": [
+              2460,
+              1880
+            ],
+            "size": [
+              380,
+              100
+            ],
+            "flags": {},
+            "order": 7,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "value",
+                "name": "value",
+                "type": "INT",
+                "widget": {
+                  "name": "value"
+                },
+                "link": 3017
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "INT",
+                "name": "INT",
+                "type": "INT",
+                "links": [
+                  3036
+                ]
+              }
+            ],
+            "title": "total_syllables",
+            "properties": {
+              "Node name for S&R": "PrimitiveInt"
+            },
+            "widgets_values": [
+              315,
+              "fixed"
+            ],
+            "widgets_values_named": {
+              "value": 315,
+              "control_after_generate": "fixed"
+            }
+          },
+          {
+            "id": 2837,
+            "type": "StringFormat",
+            "pos": [
+              2860,
+              1140
+            ],
+            "size": [
+              680,
+              300
+            ],
+            "flags": {
+              "collapsed": false
+            },
+            "order": 8,
+            "mode": 0,
+            "inputs": [
+              {
+                "label": "a",
+                "localized_name": "a",
+                "name": "values.a",
+                "shape": 7,
+                "type": "*",
+                "link": 3038
+              },
+              {
+                "localized_name": "b",
+                "name": "values.b",
+                "shape": 7,
+                "type": "*",
+                "link": 3039
+              },
+              {
+                "localized_name": "c",
+                "name": "values.c",
+                "shape": 7,
+                "type": "*",
+                "link": 3040
+              },
+              {
+                "localized_name": "d",
+                "name": "values.d",
+                "shape": 7,
+                "type": "*",
+                "link": 3041
+              },
+              {
+                "localized_name": "e",
+                "name": "values.e",
+                "shape": 7,
+                "type": "*",
+                "link": 3042
+              },
+              {
+                "localized_name": "f",
+                "name": "values.f",
+                "shape": 7,
+                "type": "*",
+                "link": 3043
+              },
+              {
+                "localized_name": "g",
+                "name": "values.g",
+                "shape": 7,
+                "type": "*",
+                "link": 3044
+              },
+              {
+                "localized_name": "h",
+                "name": "values.h",
+                "shape": 7,
+                "type": "*",
+                "link": 3045
+              },
+              {
+                "localized_name": "i",
+                "name": "values.i",
+                "shape": 7,
+                "type": "*",
+                "link": 3046
+              },
+              {
+                "localized_name": "j",
+                "name": "values.j",
+                "shape": 7,
+                "type": "*",
+                "link": null
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "STRING",
+                "name": "STRING",
+                "type": "STRING",
+                "links": [
+                  3026
+                ]
+              }
+            ],
+            "title": "filename_prefix",
+            "properties": {
+              "Node name for S&R": "StringFormat"
+            },
+            "widgets_values": [
+              "{a} [@{d:d}, {c:d} bpm, {b:d} bars, {e:.2f} sps, {f:.1f} sec, {g}, {h:.2f} cfg, {i:.2f} temp]"
+            ],
+            "widgets_values_named": {
+              "f_string": "{a} [@{d:d}, {c:d} bpm, {b:d} bars, {e:.2f} sps, {f:.1f} sec, {g}, {h:.2f} cfg, {i:.2f} temp]"
+            }
+          },
+          {
+            "id": 3325,
+            "type": "TextEncodeAceStepAudio1.5",
+            "pos": [
+              2860,
+              1460
+            ],
+            "size": [
+              680,
+              520
+            ],
+            "flags": {},
+            "order": 16,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "clip",
+                "name": "clip",
+                "type": "CLIP",
+                "link": 3032
+              },
+              {
+                "localized_name": "tags",
+                "name": "tags",
+                "type": "STRING",
+                "widget": {
+                  "name": "tags"
+                },
+                "link": 3014
+              },
+              {
+                "localized_name": "lyrics",
+                "name": "lyrics",
+                "type": "STRING",
+                "widget": {
+                  "name": "lyrics"
+                },
+                "link": 3015
+              },
+              {
+                "localized_name": "seed",
+                "name": "seed",
+                "type": "INT",
+                "widget": {
+                  "name": "seed"
+                },
+                "link": 3019
+              },
+              {
+                "localized_name": "bpm",
+                "name": "bpm",
+                "type": "INT",
+                "widget": {
+                  "name": "bpm"
+                },
+                "link": 3003
+              },
+              {
+                "localized_name": "duration",
+                "name": "duration",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "duration"
+                },
+                "link": 3004
+              },
+              {
+                "localized_name": "language",
+                "name": "language",
+                "type": "COMBO",
+                "widget": {
+                  "name": "language"
+                },
+                "link": 3021
+              },
+              {
+                "localized_name": "keyscale",
+                "name": "keyscale",
+                "type": "COMBO",
+                "widget": {
+                  "name": "keyscale"
+                },
+                "link": 3022
+              },
+              {
+                "localized_name": "generate_audio_codes",
+                "name": "generate_audio_codes",
+                "type": "BOOLEAN",
+                "widget": {
+                  "name": "generate_audio_codes"
+                },
+                "link": 2990
+              },
+              {
+                "localized_name": "cfg_scale",
+                "name": "cfg_scale",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "cfg_scale"
+                },
+                "link": 3023
+              },
+              {
+                "localized_name": "temperature",
+                "name": "temperature",
+                "type": "FLOAT",
+                "widget": {
+                  "name": "temperature"
+                },
+                "link": 3024
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "CONDITIONING",
+                "name": "CONDITIONING",
+                "type": "CONDITIONING",
+                "links": [
+                  3006,
+                  3008
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "TextEncodeAceStepAudio1.5",
+              "cnr_id": "comfy-core",
+              "ver": "0.11.1"
+            },
+            "widgets_values": [
+              "",
+              "",
+              20260903,
+              "fixed",
+              126,
+              101.5,
+              "4",
+              "de",
+              "E minor",
+              true,
+              3.5,
+              0.9,
+              0.9,
+              0,
+              0
+            ],
+            "widgets_values_named": {
+              "tags": "",
+              "lyrics": "",
+              "seed": 20260903,
+              "control_after_generate": "fixed",
+              "bpm": 126,
+              "duration": 101.5,
+              "timesignature": "4",
+              "language": "de",
+              "keyscale": "E minor",
+              "generate_audio_codes": true,
+              "cfg_scale": 3.5,
+              "temperature": 0.9,
+              "top_p": 0.9,
+              "top_k": 0,
+              "min_p": 0
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 3003,
+            "origin_id": 3316,
+            "origin_slot": 0,
+            "target_id": 3325,
+            "target_slot": 4,
+            "type": "INT"
+          },
+          {
+            "id": 3004,
+            "origin_id": 3317,
+            "origin_slot": 0,
+            "target_id": 3325,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3005,
+            "origin_id": 3317,
+            "origin_slot": 0,
+            "target_id": 3318,
+            "target_slot": 0,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3006,
+            "origin_id": 3325,
+            "origin_slot": 0,
+            "target_id": 3320,
+            "target_slot": 0,
+            "type": "CONDITIONING"
+          },
+          {
+            "id": 3007,
+            "origin_id": 2832,
+            "origin_slot": 0,
+            "target_id": 3322,
+            "target_slot": 0,
+            "type": "MODEL"
+          },
+          {
+            "id": 3008,
+            "origin_id": 3325,
+            "origin_slot": 0,
+            "target_id": 3322,
+            "target_slot": 1,
+            "type": "CONDITIONING"
+          },
+          {
+            "id": 3009,
+            "origin_id": 3320,
+            "origin_slot": 0,
+            "target_id": 3322,
+            "target_slot": 2,
+            "type": "CONDITIONING"
+          },
+          {
+            "id": 3010,
+            "origin_id": 3318,
+            "origin_slot": 0,
+            "target_id": 3322,
+            "target_slot": 3,
+            "type": "LATENT"
+          },
+          {
+            "id": 3011,
+            "origin_id": 3322,
+            "origin_slot": 0,
+            "target_id": 3323,
+            "target_slot": 0,
+            "type": "LATENT"
+          },
+          {
+            "id": 3012,
+            "origin_id": 3321,
+            "origin_slot": 0,
+            "target_id": 3323,
+            "target_slot": 1,
+            "type": "VAE"
+          },
+          {
+            "id": 3013,
+            "origin_id": 2831,
+            "origin_slot": 0,
+            "target_id": 2832,
+            "target_slot": 0,
+            "type": "MODEL"
+          },
+          {
+            "id": 3014,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3325,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3015,
+            "origin_id": -10,
+            "origin_slot": 1,
+            "target_id": 3325,
+            "target_slot": 2,
+            "type": "STRING"
+          },
+          {
+            "id": 3016,
+            "origin_id": -10,
+            "origin_slot": 3,
+            "target_id": 3319,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3017,
+            "origin_id": -10,
+            "origin_slot": 4,
+            "target_id": 2836,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3018,
+            "origin_id": -10,
+            "origin_slot": 6,
+            "target_id": 2833,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3019,
+            "origin_id": 2833,
+            "origin_slot": 0,
+            "target_id": 3325,
+            "target_slot": 3,
+            "type": "INT"
+          },
+          {
+            "id": 3020,
+            "origin_id": 2833,
+            "origin_slot": 0,
+            "target_id": 3322,
+            "target_slot": 4,
+            "type": "INT"
+          },
+          {
+            "id": 3021,
+            "origin_id": -10,
+            "origin_slot": 7,
+            "target_id": 3325,
+            "target_slot": 6,
+            "type": "COMBO"
+          },
+          {
+            "id": 3022,
+            "origin_id": -10,
+            "origin_slot": 8,
+            "target_id": 3325,
+            "target_slot": 7,
+            "type": "COMBO"
+          },
+          {
+            "id": 3023,
+            "origin_id": -10,
+            "origin_slot": 9,
+            "target_id": 3325,
+            "target_slot": 9,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3024,
+            "origin_id": -10,
+            "origin_slot": 10,
+            "target_id": 3325,
+            "target_slot": 10,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3025,
+            "origin_id": -10,
+            "origin_slot": 2,
+            "target_id": 2834,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3026,
+            "origin_id": 2837,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3027,
+            "origin_id": 3323,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "AUDIO"
+          },
+          {
+            "id": 3028,
+            "origin_id": -10,
+            "origin_slot": 11,
+            "target_id": 3318,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 3029,
+            "origin_id": 3317,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3030,
+            "origin_id": -10,
+            "origin_slot": 5,
+            "target_id": 3316,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3031,
+            "origin_id": 2835,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 3,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3032,
+            "origin_id": 3324,
+            "origin_slot": 0,
+            "target_id": 3325,
+            "target_slot": 0,
+            "type": "CLIP"
+          },
+          {
+            "id": 3033,
+            "origin_id": -10,
+            "origin_slot": 12,
+            "target_id": 3322,
+            "target_slot": 5,
+            "type": "INT"
+          },
+          {
+            "id": 2990,
+            "origin_id": -10,
+            "origin_slot": 13,
+            "target_id": 3325,
+            "target_slot": 8,
+            "type": "BOOLEAN"
+          },
+          {
+            "id": 3034,
+            "origin_id": 3319,
+            "origin_slot": 0,
+            "target_id": 3317,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3035,
+            "origin_id": 3316,
+            "origin_slot": 0,
+            "target_id": 3317,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 3036,
+            "origin_id": 2836,
+            "origin_slot": 0,
+            "target_id": 2835,
+            "target_slot": 0,
+            "type": "INT"
+          },
+          {
+            "id": 3037,
+            "origin_id": 3317,
+            "origin_slot": 0,
+            "target_id": 2835,
+            "target_slot": 1,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3038,
+            "origin_id": 2834,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3039,
+            "origin_id": 3319,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 3040,
+            "origin_id": 3316,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 3041,
+            "origin_id": 2833,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 3,
+            "type": "INT"
+          },
+          {
+            "id": 3042,
+            "origin_id": 2835,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3043,
+            "origin_id": 3317,
+            "origin_slot": 0,
+            "target_id": 2837,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3044,
+            "origin_id": -10,
+            "origin_slot": 8,
+            "target_id": 2837,
+            "target_slot": 6,
+            "type": "*"
+          },
+          {
+            "id": 3045,
+            "origin_id": -10,
+            "origin_slot": 9,
+            "target_id": 2837,
+            "target_slot": 7,
+            "type": "*"
+          },
+          {
+            "id": 3046,
+            "origin_id": -10,
+            "origin_slot": 10,
+            "target_id": 2837,
+            "target_slot": 8,
+            "type": "*"
+          }
+        ],
+        "extra": {}
+      },
+      {
+        "id": "1e7fd114-4f60-4287-99ab-8aa214819fc0",
+        "version": 1,
+        "state": {
+          "lastGroupId": 2,
+          "lastNodeId": 3453,
+          "lastLinkId": 3529,
+          "lastRerouteId": 0
+        },
+        "revision": 0,
+        "config": {},
+        "name": "AceStepAudioSplitTAGS-9",
+        "inputNode": {
+          "id": -10,
+          "bounding": [
+            1060,
+            1740,
+            128,
+            68
+          ]
+        },
+        "outputNode": {
+          "id": -20,
+          "bounding": [
+            1920,
+            1700,
+            128,
+            228
+          ]
+        },
+        "inputs": [
+          {
+            "id": "3791d838-0764-48bc-aa96-30c86494ea9b",
+            "name": "list",
+            "type": "*",
+            "linkIds": [
+              3047,
+              3048,
+              3054,
+              3055,
+              3060,
+              3062,
+              3063,
+              3066,
+              3070
+            ],
+            "localized_name": "list",
+            "label": "ASA-T9",
+            "pos": [
+              1164,
+              1764
+            ]
+          }
+        ],
+        "outputs": [
+          {
+            "id": "e463f96e-cafd-4b65-b519-bb71d3b2aad2",
+            "name": "STRING",
+            "type": "STRING",
+            "linkIds": [
+              3051
+            ],
+            "label": "tags",
+            "pos": [
+              1944,
+              1724
+            ]
+          },
+          {
+            "id": "bda22573-be11-44a2-ba19-afa32c16b6e9",
+            "name": "STRING_1",
+            "type": "STRING",
+            "linkIds": [
+              3053
+            ],
+            "label": "title",
+            "pos": [
+              1944,
+              1744
+            ]
+          },
+          {
+            "id": "74dbdf18-900f-4b4b-ac30-6de0c5492be9",
+            "name": "INT_1",
+            "type": "INT",
+            "linkIds": [
+              3057
+            ],
+            "label": "total_bars",
+            "pos": [
+              1944,
+              1764
+            ]
+          },
+          {
+            "id": "0d1ace54-04d5-405f-938b-9139ba3b8b13",
+            "name": "INT_2",
+            "type": "INT",
+            "linkIds": [
+              3058
+            ],
+            "label": "bpm",
+            "pos": [
+              1944,
+              1784
+            ]
+          },
+          {
+            "id": "7b2168e4-055d-4ad9-835e-cf62d197787f",
+            "name": "INT",
+            "type": "INT",
+            "linkIds": [
+              3061
+            ],
+            "label": "seed",
+            "pos": [
+              1944,
+              1804
+            ]
+          },
+          {
+            "id": "ef05602d-47e6-46a6-862f-9648910a15f1",
+            "name": "item",
+            "type": "*",
+            "linkIds": [
+              3064
+            ],
+            "label": "keyscale",
+            "pos": [
+              1944,
+              1824
+            ]
+          },
+          {
+            "id": "426e930e-c29d-4f46-bae5-33a295af3485",
+            "name": "item_1",
+            "type": "*",
+            "linkIds": [
+              3065
+            ],
+            "label": "cfg_scale",
+            "pos": [
+              1944,
+              1844
+            ]
+          },
+          {
+            "id": "713f5d7d-378b-4568-b244-943b76321226",
+            "name": "FLOAT",
+            "type": "FLOAT",
+            "linkIds": [
+              3068
+            ],
+            "label": "temperature",
+            "pos": [
+              1944,
+              1864
+            ]
+          },
+          {
+            "id": "df5c80d0-27b6-4819-ace3-f0fbeb262ef9",
+            "name": "int",
+            "type": "INT",
+            "linkIds": [
+              3071
+            ],
+            "label": "steps",
+            "pos": [
+              1944,
+              1884
+            ]
+          }
+        ],
+        "widgets": [],
+        "nodes": [
+          {
+            "id": 3326,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1760
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3047
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3049
+                ]
+              }
+            ],
+            "title": "bpm",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              3
+            ],
+            "widgets_values_named": {
+              "index": 3
+            }
+          },
+          {
+            "id": 3327,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1720
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3048
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3056
+                ]
+              }
+            ],
+            "title": "total_bars",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              2
+            ],
+            "widgets_values_named": {
+              "index": 2
+            }
+          },
+          {
+            "id": 3328,
+            "type": "Basic data handling: CastToInt",
+            "pos": [
+              1640,
+              1760
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3049
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "int",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3058
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToInt"
+            }
+          },
+          {
+            "id": 3329,
+            "type": "Basic data handling: CastToString",
+            "pos": [
+              1640,
+              1640
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3050
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "string",
+                "name": "string",
+                "type": "STRING",
+                "links": [
+                  3051
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToString"
+            }
+          },
+          {
+            "id": 3330,
+            "type": "Basic data handling: CastToString",
+            "pos": [
+              1640,
+              1680
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 4,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3052
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "string",
+                "name": "string",
+                "type": "STRING",
+                "links": [
+                  3053
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToString"
+            }
+          },
+          {
+            "id": 3331,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1680
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3055
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3052
+                ]
+              }
+            ],
+            "title": "title",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              1
+            ],
+            "widgets_values_named": {
+              "index": 1
+            }
+          },
+          {
+            "id": 3332,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1640
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 6,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3054
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3050
+                ]
+              }
+            ],
+            "title": "tags",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              0
+            ],
+            "widgets_values_named": {
+              "index": 0
+            }
+          },
+          {
+            "id": 3333,
+            "type": "Basic data handling: CastToInt",
+            "pos": [
+              1640,
+              1720
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 7,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3056
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "int",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3057
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToInt"
+            }
+          },
+          {
+            "id": 3334,
+            "type": "Basic data handling: CastToInt",
+            "pos": [
+              1640,
+              1800
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 8,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3059
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "int",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3061
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToInt"
+            }
+          },
+          {
+            "id": 3335,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1800
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 9,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3060
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3059
+                ]
+              }
+            ],
+            "title": "seed",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              4
+            ],
+            "widgets_values_named": {
+              "index": 4
+            }
+          },
+          {
+            "id": 3336,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1880
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 10,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3063
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3065
+                ]
+              }
+            ],
+            "title": "cfg_scale",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              6
+            ],
+            "widgets_values_named": {
+              "index": 6
+            }
+          },
+          {
+            "id": 3337,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1840
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 11,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3062
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3064
+                ]
+              }
+            ],
+            "title": "keyscale",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              5
+            ],
+            "widgets_values_named": {
+              "index": 5
+            }
+          },
+          {
+            "id": 3338,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1920
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 12,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3066
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3067
+                ]
+              }
+            ],
+            "title": "temperature",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              7
+            ],
+            "widgets_values_named": {
+              "index": 7
+            }
+          },
+          {
+            "id": 3339,
+            "type": "Basic data handling: CastToFloat",
+            "pos": [
+              1640,
+              1920
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 13,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3067
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "float",
+                "name": "float",
+                "type": "FLOAT",
+                "links": [
+                  3068
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToFloat"
+            }
+          },
+          {
+            "id": 3340,
+            "type": "Basic data handling: ListGetItem",
+            "pos": [
+              1300,
+              1960
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 14,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "list",
+                "name": "list",
+                "type": "LIST",
+                "link": 3070
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "item",
+                "name": "item",
+                "type": "*",
+                "links": [
+                  3069
+                ]
+              }
+            ],
+            "title": "steps",
+            "properties": {
+              "Node name for S&R": "Basic data handling: ListGetItem"
+            },
+            "widgets_values": [
+              8
+            ],
+            "widgets_values_named": {
+              "index": 8
+            }
+          },
+          {
+            "id": 3341,
+            "type": "Basic data handling: CastToInt",
+            "pos": [
+              1640,
+              1960
+            ],
+            "size": [
+              240,
+              40
+            ],
+            "flags": {
+              "collapsed": true
+            },
+            "order": 15,
+            "mode": 0,
+            "inputs": [
+              {
+                "localized_name": "input",
+                "name": "input",
+                "type": "*",
+                "link": 3069
+              }
+            ],
+            "outputs": [
+              {
+                "localized_name": "int",
+                "name": "int",
+                "type": "INT",
+                "links": [
+                  3071
+                ]
+              }
+            ],
+            "properties": {
+              "Node name for S&R": "Basic data handling: CastToInt"
+            }
+          }
+        ],
+        "groups": [],
+        "links": [
+          {
+            "id": 3047,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3326,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3048,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3327,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3049,
+            "origin_id": 3326,
+            "origin_slot": 0,
+            "target_id": 3328,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3050,
+            "origin_id": 3332,
+            "origin_slot": 0,
+            "target_id": 3329,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3051,
+            "origin_id": 3329,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 0,
+            "type": "STRING"
+          },
+          {
+            "id": 3052,
+            "origin_id": 3331,
+            "origin_slot": 0,
+            "target_id": 3330,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3053,
+            "origin_id": 3330,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 1,
+            "type": "STRING"
+          },
+          {
+            "id": 3054,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3332,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3055,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3331,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3056,
+            "origin_id": 3327,
+            "origin_slot": 0,
+            "target_id": 3333,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3057,
+            "origin_id": 3333,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 2,
+            "type": "INT"
+          },
+          {
+            "id": 3058,
+            "origin_id": 3328,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 3,
+            "type": "INT"
+          },
+          {
+            "id": 3059,
+            "origin_id": 3335,
+            "origin_slot": 0,
+            "target_id": 3334,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3060,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3335,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3061,
+            "origin_id": 3334,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 4,
+            "type": "INT"
+          },
+          {
+            "id": 3062,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3337,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3063,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3336,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3064,
+            "origin_id": 3337,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 5,
+            "type": "*"
+          },
+          {
+            "id": 3065,
+            "origin_id": 3336,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 6,
+            "type": "*"
+          },
+          {
+            "id": 3066,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3338,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3067,
+            "origin_id": 3338,
+            "origin_slot": 0,
+            "target_id": 3339,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3068,
+            "origin_id": 3339,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 7,
+            "type": "FLOAT"
+          },
+          {
+            "id": 3069,
+            "origin_id": 3340,
+            "origin_slot": 0,
+            "target_id": 3341,
+            "target_slot": 0,
+            "type": "*"
+          },
+          {
+            "id": 3070,
+            "origin_id": -10,
+            "origin_slot": 0,
+            "target_id": 3340,
+            "target_slot": 0,
+            "type": "LIST"
+          },
+          {
+            "id": 3071,
+            "origin_id": 3341,
+            "origin_slot": 0,
+            "target_id": -20,
+            "target_slot": 8,
+            "type": "INT"
+          }
+        ],
+        "extra": {}
+      }
+    ]
+  },
+  "config": {},
+  "extra": {
+    "frontendVersion": "1.59.1",
+    "workflowRendererVersion": "LG",
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true,
+    "ds": {
+      "scale": 0.555991731349223,
+      "offset": [
+        -3294.081223893184,
+        -1010.4187136596321
+      ]
+    }
+  },
+  "version": 0.4
+}
