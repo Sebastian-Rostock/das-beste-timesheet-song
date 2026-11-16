@@ -10,19 +10,19 @@ Was sonst als trockene Pflichtaufgabe am Monatsersten gilt, wird hier mit maxima
 
 Dieser Song ist ein **privates, liebevolles Spaß-Projekt** aus dem ganz normalen Arbeitsalltag zwischen Forschung und Projektverwaltung:
 
-* **Ironische Selbstmotivation:** Wenn im Text von einem *„Masterpiece“* oder einer *„legendären“* Leistung die Rede ist, dann ist das bewusst maßlos übertrieben. Jeder, der schon einmal am Monatsersten krumme Projektstunden so über Tage und PSP-Elemente gepuzzelt hat, dass oben in der Summenzeile an jedem Vollzeittag exakt **7,8 Stunden** stehen, kennt dieses kleine Triumphgefühl, wenn endlich alles aufgeht.
-* **Wertschätzung statt Kritik:** Der Song richtet sich gegen niemanden – im Gegenteil: Er feiert die gute Zusammenarbeit zwischen Forschung und Zeitwirtschaft (stellvertretend durch Mandy, die den Song selbst großartig findet) und hält den Arbeitsalltag mit einem Augenzwinkern zusammen.
+* **Ironische Selbstmotivation:** Wenn im Text von einem *„Masterpiece“* oder einer *„legendären“* Leistung die Rede ist, dann ist das bewusst maßlos übertrieben. Jeder, der schon einmal krumme Projektstunden so über Tage und PSP-Elemente gepuzzelt hat, dass oben in der Summenzeile an jedem Vollzeittag exakt **7,8 Stunden** stehen, kennt dieses kleine Triumphgefühl, wenn endlich alles aufgeht.
+* **Wertschätzung statt Kritik:** Der Song richtet sich gegen niemanden – im Gegenteil: Er feiert die gute Zusammenarbeit zwischen Forschung und Zeitwirtschaft und hält den Arbeitsalltag mit einem Augenzwinkern zusammen.
 
 ---
 
 ### Inspiration & Produktion (100 % lokal mit ACE-Step & ComfyUI)
 
-Anders als mein erstes Projekt wurde *Das beste Timesheet – 7,8* nicht auf Suno erstellt, sondern **vollständig lokal auf dem eigenen Rechner mit ACE-Step in ComfyUI** gerendert.
+*Das beste Timesheet – 7,8* wurde **vollständig lokal auf dem eigenen Rechner mit ACE-Step in ComfyUI** gerendert.
 
-* **Entstehung:** Die Idee entstand aus dem Wunsch heraus, eine lästige Routineaufgabe mit guter Laune und Musik aufzulockern.
-* **KI-gestützter Workflow:** Songtext, Struktur und Prompts wurden in einem iterativen Dialog mit KI-Assistenten (u. a. Google Gemini und Claude) verfeinert, bis Reimfluss, Rhythmus und die Phonetik von Fachbegriffen wie *SAP CATS* oder *PSP-Element* perfekt saßen.
-* **Modulare ComfyUI-Workflows:** Um alles schlank und performant zu halten, besitzt jede der 16 Stilrichtungen einen **eigenen ComfyUI-Workflow mit anpassbaren Subgraphs**. Die einzelnen Track-Varianten entstehen durch gezielte Variation technischer Parameter und lassen sich per Drag-and-Drop der MP3-Dateien direkt wieder in ComfyUI laden.
-* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **Kätzchen oder Katzen**. Generiert wurden die Bilder mit **Z-Image-Turbo** und **GPT-Image**.
+* **Entstehung & Vorgeschichte:** Die Tradition begann vor über einem Jahr mit den monatlichen Kätzchen-Bildern für unsere CATS-Erinnerungsmails. Anfang 2026 entdeckte ich dann **ACE-Step in ComfyUI** für mich ind spielte viel damit. Der allererste musikalische Versuch zur Zeiterfassung war noch ein [➜ ein kurzes, vertontes Gedicht](styles/prototyp.md). Parallel dazu arbeitete ich an einem eigenen Pop-Song und konnte alles, was ich dabei über Arrangement, Phonetik und Workflows gelernt habe, direkt hier anwenden – so wuchs aus der kleinen Idee schließlich dieses ausgewachsene Spaß-Projekt.
+* **KI-gestützter Workflow:** Songtext, Struktur und Prompts wurden in einem iterativen Dialog mit Google Gemini verfeinert, bis Reimfluss, Rhythmus und die Phonetik von Fachbegriffen wie *SAP CATS* oder *PSP-Element* perfekt saßen.
+* **Modulare ComfyUI-Workflows:** Um alles schlank und performant zu halten, besitzt jede der Stilrichtungen einen **eigenen ComfyUI-Workflow mit anpassbaren Subgraphs**. Die einzelnen Track-Varianten entstehen durch gezielte Variation und lassen sich per Drag-and-Drop der MP3-Dateien direkt wieder in ComfyUI laden.
+* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **Kätzchen**. Generiert wurden die Bilder mit **GPT-Image**.
 
 ---
 
@@ -50,7 +50,7 @@ Alle von mir verfassten sowie mithilfe von KI-Werkzeugen ausgearbeiteten Songtex
 
 * **Musik & Audio:** Die Tracks wurden lokal mit dem Open-Source-Modell **ACE-Step** über **ComfyUI** generiert.
 
-* **Bilder:** Die Cover-Arts wurden mithilfe von **Z-Image-Turbo** und **GPT-Image** erstellt.
+* **Bilder:** Die Cover-Arts wurden mithilfe von **GPT-Image** erstellt.
 
 ### 3. Marken- und Namensrechte (*Fraunhofer* & *SAP*)
 
