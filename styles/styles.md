@@ -4,7 +4,7 @@ Alle Varianten dieses Songs wurden lokal mit **ACE-Step 1.5 in ComfyUI** gerende
 
 **Tipp für ComfyUI-Nutzer:** Alle veröffentlichten MP3-Dateien enthalten die vollständigen Workflow-Metadaten. Du kannst jede Audiodatei einfach per **Drag-and-Drop in ComfyUI** ziehen, um exakt diese Variante inklusive aller Parameter zu laden.
 
-**Cover-Art & das *CATS*-Wortspiel:** Passend zum Zeiterfassungssystem **SAP CATS** zeigen die Cover-Arts (genau wie die monatlichen Erinnerungs-E-Mails) **Kätzchen oder Katzen**, generiert mit **Z-Image-Turbo** und **GPT-Image**.
+**Cover-Art & das *CATS*-Wortspiel:** Passend zum Zeiterfassungssystem **SAP CATS** zeigen die Cover-Arts (genau wie die monatlichen Erinnerungs-E-Mails) **Kätzchen**, generiert mit **GPT-Image**.
 
 ---
 
@@ -26,7 +26,7 @@ Die folgende Übersicht sortiert die Musikrichtungen nach dem dramaturgischen Ve
 |10|![](thumbs/witch_house.webp)|[➜ Witch House](witch_house.md)<br>*düster, beklemmend, unheimlich*|[➜ Play Audio](../audio/witch_house_1.mp3)<br>Düstere, dichte Atmosphäre für die Tiefe des SAP-Systems.|
 |11|![](thumbs/darkwave_goth.webp)|[➜ Darkwave-Goth](darkwave_goth.md)<br>*feierlich, melancholisch, düster*|[➜ Play Audio](../audio/darkwave_goth_1.mp3)<br>Ein melancholisches, feierliches Ritual für die Zeiterfassung.|
 |12|![](thumbs/acid.webp)|[➜ Acid](acid.md)<br>*psychedelisch, hypnotisch, blinkend*|[➜ Play Audio](../audio/acid_1.mp3)<br>Hypnotische 303-Synthesizer für den Rausch der Zahlenkolonnen.|
-|13|![](thumbs/symphonic_gothic.webp)|[➜ Symphonic Gothic Ballad](symphonic_gothic_ballad.md)<br>*tragisch, emotional, gewaltig*|[➜ Play Audio](../audio/symphonic_gothic_1.mp3)<br>Epische, emotionale Erleichterung, wenn die Bridge einsetzt.|
+|13|![](thumbs/symphonic_gothic_ballad.webp)|[➜ Symphonic Gothic Ballad](symphonic_gothic_ballad.md)<br>*tragisch, emotional, gewaltig*|[➜ Play Audio](../audio/symphonic_gothic_ballad_1.mp3)<br>Epische, emotionale Erleichterung, wenn die Bridge einsetzt.|
 |14|![](thumbs/symphonic_epic_pop.webp)|[➜ Symphonic Epic Pop](symphonic_epic_pop.md)<br>*majestätisch, heroisch, orchestral*|[➜ Play Audio](../audio/symphonic_epic_pop_1.mp3)<br>Erhebt das fehlerfreie Timesheet zu einem heroischen Finale.|
 |15|![](thumbs/cinematic_pop.webp)|[➜ Cinematic Pop](cinematic_pop.md)<br>*majestätisch, triumphierend, orchestral*|[➜ Play Audio](../audio/cinematic_pop_1.mp3)<br>Großer Kinoklang für die feierliche Freigabe durch das Management.|
 |16|![](thumbs/dixieland.webp)|[➜ Dixieland](dixieland.md)<br>*jubilant, blechern, handgemacht*|[➜ Play Audio](../audio/dixieland_1.mp3)<br>Ein humorvoller, beschwingter Marsch durch die Bürokratie.|

@@ -2,15 +2,15 @@
  
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/symphonic_gothic_1.mp3)
-[➜ Track 2 anhören](../audio/symphonic_gothic_2.mp3)
-[➜ Track 3 anhören](../audio/symphonic_gothic_3.mp3)
+[➜ Track 1 anhören](../audio/symphonic_gothic_ballad_1.mp3)
+[➜ Track 2 anhören](../audio/symphonic_gothic_ballad_2.mp3)
+[➜ Track 3 anhören](../audio/symphonic_gothic_ballad_3.mp3)
 
-[➜ ComfyUI_Workflow](../workflows/symphonic_gothic.json)
+[➜ ComfyUI_Workflow](../workflows/symphonic_gothic_ballad.json)
 
 #### Genre-Cover & Bild-Prompt
 
-![Cover – Symphonic Gothic Ballad](covers/symphonic_gothic.webp)
+![Cover – Symphonic Gothic Ballad](covers/symphonic_gothic_ballad.webp)
 
 ```text
 SCENE: An extreme wide, high-angle night shot from the stone arches of a dark, romantic gothic castle balcony overlooking a mist-covered lake under a dramatic stormy sky, camera positioned high and far back. Square 1:1 symphonic gothic metal cover, photorealistic cinematic still, dramatic ballad aesthetic, shot on 35mm, sweeping moody shadows, soft cinematic lens flare, pristine fine grain. Lightning cracking in the distance illuminating low-lying fog, elegant stone architecture, and sweeping dark willow trees far below.
