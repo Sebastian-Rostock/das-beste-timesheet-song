@@ -1,13 +1,12 @@
 # *Deutschpunk* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/deutschpunk_1.mp3)
-[➜ Track 2 anhören](../audio/deutschpunk_2.mp3)
-[➜ Track 3 anhören](../audio/deutschpunk_3.mp3)
-[➜ Track 4 anhören](../audio/deutschpunk_4.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/deutschpunk.json)
+* [➜ Track 1 anhören](../audio/deutschpunk_1.mp3)
+* [➜ Track 2 anhören](../audio/deutschpunk_2.mp3)
+* [➜ Track 3 anhören](../audio/deutschpunk_3.mp3)
+* [➜ Track 4 anhören](../audio/deutschpunk_4.mp3)
+* [➜ ComfyUI-Workflow](../workflows/deutschpunk.json)
 
 #### Genre-Cover & Bild-Prompt
 

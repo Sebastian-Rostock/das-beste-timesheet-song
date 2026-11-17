@@ -1,12 +1,11 @@
 # *Symphonic Gothic Ballad* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/symphonic_gothic_ballad_1.mp3)
-[➜ Track 2 anhören](../audio/symphonic_gothic_ballad_2.mp3)
-[➜ Track 3 anhören](../audio/symphonic_gothic_ballad_3.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/symphonic_gothic_ballad.json)
+* [➜ Track 1 anhören](../audio/symphonic_gothic_ballad_1.mp3)
+* [➜ Track 2 anhören](../audio/symphonic_gothic_ballad_2.mp3)
+* [➜ Track 3 anhören](../audio/symphonic_gothic_ballad_3.mp3)
+* [➜ ComfyUI_Workflow](../workflows/symphonic_gothic_ballad.json)
 
 #### Genre-Cover & Bild-Prompt
 

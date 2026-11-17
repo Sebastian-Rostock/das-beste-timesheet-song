@@ -1,13 +1,12 @@
 # *Kawaii Future Bass* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/kawaii_future_bass_1.mp3)
-[➜ Track 2 anhören](../audio/kawaii_future_bass_2.mp3)
-[➜ Track 3 anhören](../audio/kawaii_future_bass_3.mp3)
-[➜ Track 4 anhören](../audio/kawaii_future_bass_4.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/kawaii_future_bass.json)
+* [➜ Track 1 anhören](../audio/kawaii_future_bass_1.mp3)
+* [➜ Track 2 anhören](../audio/kawaii_future_bass_2.mp3)
+* [➜ Track 3 anhören](../audio/kawaii_future_bass_3.mp3)
+* [➜ Track 4 anhören](../audio/kawaii_future_bass_4.mp3)
+* [➜ ComfyUI_Workflow](../workflows/kawaii_future_bass.json)
 
 #### Genre-Cover & Bild-Prompt
 

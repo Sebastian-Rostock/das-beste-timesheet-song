@@ -1,13 +1,12 @@
 # *Darkwave-Goth* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/darkwave_goth_1.mp3)
-[➜ Track 2 anhören](../audio/darkwave_goth_2.mp3)
-[➜ Track 3 anhören](../audio/darkwave_goth_3.mp3)
-[➜ Track 4 anhören](../audio/darkwave_goth_4.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/darkwave_goth.json)
+* [➜ Track 1 anhören](../audio/darkwave_goth_1.mp3)
+* [➜ Track 2 anhören](../audio/darkwave_goth_2.mp3)
+* [➜ Track 3 anhören](../audio/darkwave_goth_3.mp3)
+* [➜ Track 4 anhören](../audio/darkwave_goth_4.mp3)
+* [➜ ComfyUI_Workflow](../workflows/darkwave_goth.json)
 
 #### Genre-Cover & Bild-Prompt
 

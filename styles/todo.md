@@ -1,8 +1,8 @@
 # *In Arbeit* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-*In Arbeit – Tracks und ComfyUI-Workflow folgen in Kürze.*
+* *In Arbeit – Tracks und ComfyUI-Workflow folgen in Kürze.*
 
 #### Genre-Cover & Bild-Prompt
 

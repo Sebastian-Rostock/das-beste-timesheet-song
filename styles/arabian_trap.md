@@ -1,11 +1,10 @@
 # *Arabian Trap* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/arabian_trap_1.mp3)
-[➜ Track 2 anhören](../audio/arabian_trap_2.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/arabian_trap.json)
+* [➜ Track 1 anhören](../audio/arabian_trap_1.mp3)
+* [➜ Track 2 anhören](../audio/arabian_trap_2.mp3)
+* [➜ ComfyUI-Workflow](../workflows/arabian_trap.json)
 
 #### Genre-Cover & Bild-Prompt
 

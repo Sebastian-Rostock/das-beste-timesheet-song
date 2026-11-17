@@ -1,11 +1,10 @@
 # *Cyber-Tribal* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/cyber_tribal_1.mp3)
-[➜ Track 2 anhören](../audio/cyber_tribal_2.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/cyber_tribal.json)
+* [➜ Track 1 anhören](../audio/cyber_tribal_1.mp3)
+* [➜ Track 2 anhören](../audio/cyber_tribal_2.mp3)
+* [➜ ComfyUI_Workflow](../workflows/cyber_tribal.json)
 
 #### Genre-Cover & Bild-Prompt
 

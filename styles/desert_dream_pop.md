@@ -1,13 +1,12 @@
 # *Desert Dream Pop* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/desert_dream_pop_1.mp3)
-[➜ Track 2 anhören](../audio/desert_dream_pop_2.mp3)
-[➜ Track 3 anhören](../audio/desert_dream_pop_3.mp3)
-[➜ Track 4 anhören](../audio/desert_dream_pop_4.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/desert_dream_pop.json)
+* [➜ Track 1 anhören](../audio/desert_dream_pop_1.mp3)
+* [➜ Track 2 anhören](../audio/desert_dream_pop_2.mp3)
+* [➜ Track 3 anhören](../audio/desert_dream_pop_3.mp3)
+* [➜ Track 4 anhören](../audio/desert_dream_pop_4.mp3)
+* [➜ ComfyUI_Workflow](../workflows/desert_dream_pop.json)
 
 #### Genre-Cover & Bild-Prompt
 

@@ -38,9 +38,10 @@ alles freigeben und sichern kommt zum Schluss.
 
 #### Tracks & Workflow (Archiv – 2 Varianten)
 
-* **Variante 1 (Prototyp):** [✖ Anhören / Download (MP3)](todo.md)
-* **Variante 2 (Prototyp):** [✖ Anhören / Download (MP3)](todo.md)
-* **ComfyUI-Workflow:** [✖ Workflow herunterladen (JSON)](todo.md) *(Hinweis: Der Workflow ist auch direkt in den MP3-Dateien eingebettet.)*
+* [➜ Track 1 anhören](todo.md)
+* [➜ Track 2 anhören](todo.md)
+* [➜ Track 3 anhören](todo.md)
+* [➜ ComfyUI-Workflow](todo.md)
 
 ---
 

@@ -1,13 +1,12 @@
 # *Acid* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/acid_1.mp3)
-[➜ Track 2 anhören](../audio/acid_2.mp3)
-[➜ Track 3 anhören](../audio/acid_3.mp3)
-[➜ Track 4 anhören](../audio/acid_4.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/acid.json)
+* [➜ Track 1 anhören](../audio/acid_1.mp3)
+* [➜ Track 2 anhören](../audio/acid_2.mp3)
+* [➜ Track 3 anhören](../audio/acid_3.mp3)
+* [➜ Track 4 anhören](../audio/acid_4.mp3)
+* [➜ ComfyUI-Workflow](../workflows/acid.json)
 
 #### Genre-Cover & Bild-Prompt
 

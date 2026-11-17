@@ -2,12 +2,11 @@
 
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/retro_synth_wave_1.mp3)
-[➜ Track 2 anhören](../audio/retro_synth_wave_2.mp3)
-[➜ Track 3 anhören](../audio/retro_synth_wave_3.mp3)
-[➜ Track 4 anhören](../audio/retro_synth_wave_4.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/retro_synth_wave.json)
+* [➜ Track 1 anhören](../audio/retro_synth_wave_1.mp3)
+* [➜ Track 2 anhören](../audio/retro_synth_wave_2.mp3)
+* [➜ Track 3 anhören](../audio/retro_synth_wave_3.mp3)
+* [➜ Track 4 anhören](../audio/retro_synth_wave_4.mp3)
+* [➜ ComfyUI-Workflow](../workflows/retro_synth_wave.json)
 
 #### Genre-Cover & Bild-Prompt
 

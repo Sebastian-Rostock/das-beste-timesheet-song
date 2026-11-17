@@ -1,13 +1,12 @@
 # *Witch House* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/witch_house_1.mp3)
-[➜ Track 2 anhören](../audio/witch_house_2.mp3)
-[➜ Track 3 anhören](../audio/witch_house_3.mp3)
-[➜ Track 4 anhören](../audio/witch_house_4.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/witch_house.json)
+* [➜ Track 1 anhören](../audio/witch_house_1.mp3)
+* [➜ Track 2 anhören](../audio/witch_house_2.mp3)
+* [➜ Track 3 anhören](../audio/witch_house_3.mp3)
+* [➜ Track 4 anhören](../audio/witch_house_4.mp3)
+* [➜ ComfyUI_Workflow](../workflows/witch_house.json)
 
 #### Genre-Cover & Bild-Prompt
 

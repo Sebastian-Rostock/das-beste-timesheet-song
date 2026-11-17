@@ -1,13 +1,12 @@
 # *Lazrpop* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/lazrpop_1.mp3)
-[➜ Track 2 anhören](../audio/lazrpop_2.mp3)
-[➜ Track 3 anhören](../audio/lazrpop_3.mp3)
-[➜ Track 4 anhören](../audio/lazrpop_4.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/lazrpop.json)
+* [➜ Track 1 anhören](../audio/lazrpop_1.mp3)
+* [➜ Track 2 anhören](../audio/lazrpop_2.mp3)
+* [➜ Track 3 anhören](../audio/lazrpop_3.mp3)
+* [➜ Track 4 anhören](../audio/lazrpop_4.mp3)
+* [➜ ComfyUI-Workflow](../workflows/lazrpop.json)
 
 #### Genre-Cover & Bild-Prompt
 

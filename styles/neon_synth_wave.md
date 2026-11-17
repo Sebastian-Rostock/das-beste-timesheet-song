@@ -1,13 +1,12 @@
 # *Neon-Synth-Wave* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/neon_synth_wave_1.mp3)
-[➜ Track 2 anhören](../audio/neon_synth_wave_2.mp3)
-[➜ Track 3 anhören](../audio/neon_synth_wave_3.mp3)
-[➜ Track 4 anhören](../audio/neon_synth_wave_4.mp3)
-
-[➜ ComfyUI_Workflow](../workflows/neon_synth_wave.json)
+* [➜ Track 1 anhören](../audio/neon_synth_wave_1.mp3)
+* [➜ Track 2 anhören](../audio/neon_synth_wave_2.mp3)
+* [➜ Track 3 anhören](../audio/neon_synth_wave_3.mp3)
+* [➜ Track 4 anhören](../audio/neon_synth_wave_4.mp3)
+* [➜ ComfyUI_Workflow](../workflows/neon_synth_wave.json)
 
 #### Genre-Cover & Bild-Prompt
 

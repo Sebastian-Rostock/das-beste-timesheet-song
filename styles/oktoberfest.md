@@ -1,13 +1,12 @@
 # *Oktoberfest* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
- 
+
 #### Tracks & Workflow
 
-[➜ Track 1 anhören](../audio/oktoberfest_1.mp3)
-[➜ Track 2 anhören](../audio/oktoberfest_2.mp3)
-[➜ Track 3 anhören](../audio/oktoberfest_3.mp3)
-[➜ Track 4 anhören](../audio/oktoberfest_4.mp3)
-
-[➜ ComfyUI-Workflow](../workflows/oktoberfest.json)
+* [➜ Track 1 anhören](../audio/oktoberfest_1.mp3)
+* [➜ Track 2 anhören](../audio/oktoberfest_2.mp3)
+* [➜ Track 3 anhören](../audio/oktoberfest_3.mp3)
+* [➜ Track 4 anhören](../audio/oktoberfest_4.mp3)
+* [➜ ComfyUI-Workflow](../workflows/oktoberfest.json)
 
 #### Genre-Cover & Bild-Prompt
 
