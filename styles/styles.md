@@ -32,6 +32,7 @@ Die folgende Übersicht sortiert die Musikrichtungen nach dem dramaturgischen Ve
 |16|![](thumbs/dixieland.webp)|[✖ Dixieland](todo.md)<br>*jubilant, blechern, handgemacht*|[✖ Play Audio](todo.md)<br>Ein humorvoller, beschwingter Marsch durch die Bürokratie.|
 |17|![](thumbs/deutschpunk.webp)|[➜ Deutschpunk](deutschpunk.md)<br>*roh, chaotisch, voller Antihaltung*|[➜ Play Audio](../audio/deutschpunk_1.mp3)<br>Pure, laute Rebellion im Takt gegen den monatlichen Abgabe-Stress.|
 |18|![](thumbs/oktoberfest.webp)|[✖ Oktoberfest](todo.md)<br>*feucht-fröhlich, schunkelnd, kollektiv*|[✖ Play Audio](todo.md)<br>Der verdiente Feierabend! Die Freigabe steht, das System meldet Log out!|
+|19|![](thumbs/deutschpop_rock.webp)|[➜ Deutschpop-Rock](deutschpop_rock.md)<br>*hymnisch, emotional, treibend, melancholisch-optimistisch*|[➜ Play Audio](../audio/deutschpop_rock_1.mp3)<br>Rauher, ehrlicher Klavier-Rock für den großen emotionalen Rückblick auf den geschafften Arbeitstag.|
 
 ---
 
