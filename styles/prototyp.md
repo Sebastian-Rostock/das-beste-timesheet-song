@@ -38,10 +38,10 @@ alles freigeben und sichern kommt zum Schluss.
 
 #### Tracks & Workflow (Archiv – 2 Varianten)
 
-* [➜ Track 1 anhören](todo.md)
-* [➜ Track 2 anhören](todo.md)
-* [➜ Track 3 anhören](todo.md)
-* [➜ ComfyUI-Workflow](todo.md)
+* [➜ Track 1 anhören](../audio/prototyp_1.mp3)
+* [➜ Track 2 anhören](../audio/prototyp_2.mp3)
+* [➜ Track 3 anhören](../audio/prototyp_3.mp3)
+* [➜ ComfyUI-Workflow](../workflows/prototyp.json)
 
 ---
 
