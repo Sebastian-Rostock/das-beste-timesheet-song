@@ -14,7 +14,7 @@ Die folgende Übersicht sortiert die Musikrichtungen nach dem dramaturgischen Ve
 
 |#|Cover|Musikrichtung & Emotion|Top-Track & Bezug zur Story|
 |-:|:-:|:-|:-|
-|01|![](thumbs/dreamy_electropop.webp)|[✖ Dreamy Electropop](todo.md)<br>*intim, warm, geborgen, sanft*|[✖ Play Audio](todo.md)<br>Sanfte, elektronische Klänge, die den Start des Arbeitstages begleiten.|
+|01|![](thumbs/dreamy_electropop.webp)|[➜ Dreamy Electropop](dreamy_electropop.md)<br>*intim, warm, geborgen, sanft*|[➜ Play Audio](../audio/dreamy_electropop_1.mp3)<br>Sanfte, elektronische Klänge, die den Start des Arbeitstages begleiten.|
 |02|![](thumbs/retro_synth_wave.webp)|[➜ Retro-Synth-Wave](retro_synth_wave.md)<br>*nostalgisch, treibend, neonfarben*|[➜ Play Audio](../audio/retro_synth_wave_1.mp3)<br>Nostalgischer, treibender Sound für den morgendlichen System-Login.|
 |03|![](thumbs/neon_synth_wave.webp)|[✖ Neon-Synth-Wave](todo.md)<br>*cyberpunk, elektrisierend, tech-fokussiert*|[✖ Play Audio](todo.md)<br>Cyberpunk-Vibes für die hochmoderne, digitale Zeiterfassung.|
 |04|![](thumbs/lazrpop.webp)|[➜ Lazrpop](lazrpop.md)<br>*futuristisch, energetisch, synthetisch*|[➜ Play Audio](../audio/lazrpop_1.mp3)<br>Futuristischer, energetischer Pop-Sound für schnelles Tippen im Takt.|
