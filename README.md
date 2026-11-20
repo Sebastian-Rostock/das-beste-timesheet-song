@@ -1,5 +1,8 @@
 # Songprojekt – *Das beste Timesheet – 7,8*
 
+
+![](styles/covers/preview_2.webp)
+
 Der Song **Das beste Timesheet – 7,8** ist eine augenzwinkernde Stadion-Hymne auf eines der unscheinbarsten, aber wichtigsten Rituale im Forschungs- und Büroalltag: die **monatliche Zeiterfassung** in SAP CATS. 
 
 Was sonst als trockene Pflichtaufgabe gilt, wird hier mit maximalem Pathos, großen Melodien und einer ordentlichen Portion Selbstironie als das größte Tageswerk gefeiert.
@@ -20,13 +23,13 @@ Dieser Song ist ein **privates, liebevolles Spaß-Projekt** aus dem ganz normale
 
 *Das beste Timesheet – 7,8* wurde **vollständig lokal auf dem eigenen Rechner mit ACE-Step in ComfyUI** gerendert.
 
-* **Entstehung & Vorgeschichte:** Die Tradition begann vor über einem Jahr mit den monatlichen Kätzchen-Bildern für unsere CATS-Erinnerungsmails. Anfang 2026 entdeckte ich dann **ACE-Step in ComfyUI** für mich und spielte viel damit. Der allererste musikalische Versuch zur Zeiterfassung war noch ein [➜ kurzes, vertontes Gedicht](styles/prototyp.md). Parallel dazu arbeitete ich an einem eigenen Pop-Song und konnte alles, was ich dabei über Arrangement, Phonetik und Workflows gelernt habe, direkt hier anwenden – so wuchs aus der kleinen Idee schließlich dieses ausgewachsene Spaß-Projekt.
+* **Entstehung & Vorgeschichte:** Die Tradition begann vor über einem Jahr mit den monatlichen Kätzchen-Bildern für unsere CATS-Erinnerungsmails. Anfang 2026 entdeckte ich dann **ACE-Step in ComfyUI** für mich und spielte viel damit. Der allererste musikalische Versuch zur Zeiterfassung war noch ein [➜ kurzes, vertontes Gedicht](styles/prototyp.md). Parallel dazu arbeitete ich an einem anderen Song-Projekt und konnte alles, was ich dabei über Arrangement, Phonetik und Workflows gelernt habe, direkt hier anwenden – so wuchs aus der kleinen Idee schließlich dieses ausgewachsene Spaß-Projekt.
 
 * **KI-gestützter Workflow:** Songtext, Struktur und Prompts wurden in einem iterativen Dialog mit Google Gemini verfeinert, bis Reimfluss, Rhythmus und die Phonetik von Fachbegriffen wie *SAP CATS* oder *PSP-Element* perfekt saßen.
 
-* **Modulare ComfyUI-Workflows:** Um alles schlank und performant zu halten, besitzt jede der Stilrichtungen einen **eigenen ComfyUI-Workflow mit anpassbaren Subgraphs**. Die einzelnen Track-Varianten entstehen durch Variation Parameter und lassen sich per Drag-and-Drop der MP3-Dateien direkt wieder in ComfyUI laden.
+* **Modulare ComfyUI-Workflows:** Um alles schlank und performant zu halten, besitzt jede der Stilrichtungen einen **eigenen ComfyUI-Workflow mit anpassbaren Subgraphs**. Die einzelnen Track-Varianten entstehen durch Variation der Parameter und lassen sich per Drag-and-Drop der MP3-Dateien direkt wieder in ComfyUI laden.
 
-* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **Kätzchen**. Generiert wurden die Bilder mit **GPT-Image**.
+* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **Kätzchen**. Generiert wurden die Bilder hier mit **GPT-Image** - in den Erinnerungs-E-Mails zuvor oft mit den Modellen *CyberRealistic v9.0* und *False Reality Mix v2.0*.
 
 ---
 
