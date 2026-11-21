@@ -1,4 +1,4 @@
-# *Acid* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Acid
 
 #### Tracks & Workflow
 

@@ -1,4 +1,4 @@
-# *Symphonic Gothic Ballad* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Symphonic Gothic Ballad
 
 #### Tracks & Workflow
 

@@ -1,4 +1,4 @@
-# *Lazrpop* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Lazrpop
 
 #### Tracks & Workflow
 

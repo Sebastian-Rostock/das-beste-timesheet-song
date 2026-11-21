@@ -1,4 +1,4 @@
-# *Darkwave-Goth* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Darkwave-Goth
 
 #### Tracks & Workflow
 

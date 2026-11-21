@@ -1,4 +1,4 @@
-# *Cinematic Pop* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Cinematic Pop
 
 #### Tracks & Workflow
 

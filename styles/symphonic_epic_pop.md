@@ -1,4 +1,4 @@
-# *Symphonic Epic Pop* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Symphonic Epic Pop
 
 #### Tracks & Workflow
 

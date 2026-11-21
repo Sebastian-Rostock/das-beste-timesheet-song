@@ -1,4 +1,4 @@
-# *Deutschpop-Rock* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Deutschpop-Rock
 
 #### Tracks & Workflow
 

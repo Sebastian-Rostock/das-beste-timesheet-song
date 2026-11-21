@@ -1,4 +1,4 @@
-# *Neon-Synth-Wave* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Neon-Synth-Wave
 
 #### Tracks & Workflow
 

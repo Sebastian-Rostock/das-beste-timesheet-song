@@ -1,4 +1,4 @@
-# *Arabian Trap* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Arabian Trap
 
 #### Tracks & Workflow
 

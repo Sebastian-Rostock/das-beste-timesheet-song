@@ -1,4 +1,4 @@
-# *Cyber-Tribal* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Cyber-Tribal
 
 #### Tracks & Workflow
 

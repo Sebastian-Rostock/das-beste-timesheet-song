@@ -1,11 +1,9 @@
-# *Future Bass* (Musikrichtung zu *Das beste Timesheet – 7,8*) 
+## Future Bass
 
 #### Tracks & Workflow
 
 * [➜ Track 1 anhören](../audio/future_bass_1.mp3)
 * [➜ Track 2 anhören](../audio/future_bass_2.mp3)
-* [➜ Track 3 anhören](../audio/future_bass_3.mp3)
-* [➜ Track 4 anhören](../audio/future_bass_4.mp3)
 * [➜ ComfyUI_Workflow](../workflows/future_bass.json)
 
 #### Genre-Cover & Bild-Prompt

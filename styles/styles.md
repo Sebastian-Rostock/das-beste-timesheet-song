@@ -1,4 +1,4 @@
-# Die Musikrichtungen zu *Das beste Timesheet – 7,8*
+## Die Musikrichtungen
 
 Alle Varianten dieses Songs wurden lokal mit **ACE-Step 1.5 in ComfyUI** gerendert. Um die Workflows schlank und performant zu halten, existiert **pro Musikrichtung ein eigener ComfyUI-Workflow** mit den dazugehörigen Subgraphs.
 
@@ -7,8 +7,6 @@ Alle Varianten dieses Songs wurden lokal mit **ACE-Step 1.5 in ComfyUI** gerende
 **Cover-Art & das *CATS*-Wortspiel:** Passend zum Zeiterfassungssystem **SAP CATS** zeigen die Cover-Arts (genau wie die monatlichen Erinnerungs-E-Mails) **Kätzchen**, generiert mit **GPT-Image**.
 
 ---
-
-## Übersicht der Musikrichtungen
 
 Die folgende Übersicht sortiert die Musikrichtungen nach dem dramaturgischen Verlauf eines perfekten Erfassungstages. Ein Klick auf die Musikrichtung führt direkt zur jeweiligen Unterseite mit den detaillierten Prompts und Beschreibungen.
 
@@ -29,9 +27,9 @@ Die folgende Übersicht sortiert die Musikrichtungen nach dem dramaturgischen Ve
 |13|![](thumbs/symphonic_gothic_ballad.webp)|[✖ Symphonic Gothic Ballad](todo.md)<br>*tragisch, emotional, gewaltig*|[✖ Play Audio](todo.md)<br>Epische, emotionale Erleichterung, wenn die Bridge einsetzt.|
 |14|![](thumbs/symphonic_epic_pop.webp)|[➜ Symphonic Epic Pop](symphonic_epic_pop.md)<br>*majestätisch, heroisch, orchestral*|[➜ Play Audio](../audio/symphonic_epic_pop_1.mp3)<br>Erhebt das fehlerfreie Timesheet zu einem heroischen Finale.|
 |15|![](thumbs/cinematic_pop.webp)|[➜ Cinematic Pop](cinematic_pop.md)<br>*bombastisch, triumphierend, orchestral*|[➜ Play Audio](../audio/cinematic_pop_1.mp3)<br>Großer Kinoklang für die feierliche Freigabe durch das Management.|
-|16|![](thumbs/dixieland.webp)|[✖ Dixieland](todo.md)<br>*ausgelassen, blechern, handgemacht*|[✖ Play Audio](todo.md)<br>Ein humorvoller, beschwingter Marsch durch die Bürokratie.|
-|17|![](thumbs/deutschpunk.webp)|[➜ Deutschpunk](deutschpunk.md)<br>*roh, chaotisch, voller Antihaltung*|[➜ Play Audio](../audio/deutschpunk_1.mp3)<br>Pure, laute Rebellion im Takt gegen den monatlichen Abgabe-Stress.|
-|18|![](thumbs/deutschpop_rock.webp)|[➜ Deutschpop-Rock](deutschpop_rock.md)<br>*hymnisch, emotional, treibend, melancholisch-optimistisch*|[➜ Play Audio](../audio/deutschpop_rock_1.mp3)<br>Rauher, ehrlicher Klavier-Rock für den großen emotionalen Rückblick auf den geschafften Arbeitstag.|
+|16|![](thumbs/deutschpunk.webp)|[➜ Deutschpunk](deutschpunk.md)<br>*roh, chaotisch, voller Antihaltung*|[➜ Play Audio](../audio/deutschpunk_1.mp3)<br>Pure, laute Rebellion im Takt gegen den monatlichen Abgabe-Stress.|
+|17|![](thumbs/deutschpop_rock.webp)|[➜ Deutschpop-Rock](deutschpop_rock.md)<br>*hymnisch, emotional, treibend, melancholisch-optimistisch*|[➜ Play Audio](../audio/deutschpop_rock_1.mp3)<br>Rauher, ehrlicher Klavier-Rock für den großen emotionalen Rückblick auf den geschafften Arbeitstag.|
+|18|![](thumbs/dixieland.webp)|[✖ Dixieland](todo.md)<br>*ausgelassen, blechern, handgemacht*|[✖ Play Audio](todo.md)<br>Ein humorvoller, beschwingter Marsch durch die Bürokratie.|
 |19|![](thumbs/oktoberfest.webp)|[✖ Oktoberfest](todo.md)<br>*feucht-fröhlich, schunkelnd, kollektiv*|[✖ Play Audio](todo.md)<br>Der verdiente Feierabend! Die Freigabe steht, das System meldet Log out!|
 
 ---

@@ -1,4 +1,4 @@
-# Der allererste Prototyp – *CATS-Erinnerungsgedicht* (Anfang 2026)
+## Der allererste Prototyp – *CATS-Erinnerungsgedicht* (Anfang 2026)
 
 Bevor aus *Das beste Timesheet – 7,8* eine ausgewachsene Stadion-Hymne wurde, stand am Anfang dieses kurze, augenzwinkernde Gedicht zur monatlichen Zeiterfassung. Es war mein allererster Gehversuch mit **ACE-Step in ComfyUI** – noch ganz ohne Cover-Art, ausgefeilte Songstruktur oder perfektionierte Phonetik-Tricks, aber bereits mit der ersten Idee für die Lautschrift (*„Käts“*, *„kross-äplikeischn-taim-schiihts“*).
 
