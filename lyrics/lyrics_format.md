@@ -1,4 +1,4 @@
-# Songtext von *Das beste Timesheet – 7,8*
+## Songtext
 
 ### Intro
 Hey-Yeah!  

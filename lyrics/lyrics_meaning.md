@@ -1,4 +1,4 @@
-# Songtext mit Interpretation – *Das beste Timesheet – 7,8*
+## Songtext mit Interpretation
 
 Dieser Song ist eine augenzwinkernde, bewusst maßlos übertriebene Stadion-Hymne auf eine der lästigsten Pflichtaufgaben im Forschungsalltag: die **monatliche Zeiterfassung**. 
 

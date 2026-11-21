@@ -1,4 +1,4 @@
-# Songtext von *Das beste Timesheet - 7.8* als Prompt
+## Songtext als Prompt
 
 **Lyrics Prompt:** Abkürzungen, Namen, Zahlen und mehrsilbige Wörter wurden phonetisch umgeschrieben oder mit Bindestrichen getrennt, damit das Modell sie rhythmisch und sprachlich sauber singt – darunter *Essahpee Ketts* (SAP CATS), *Pee-esspee* (PSP), *Mändie* (Mandy), *Taskfors* (Taskforce), *Drehsden* (Dresden), *Sieben Komma Acht* (7,8) sowie rhythmische Trennungen wie *absolu-te*, *per-fekt* und *le-gen-där*.
 
