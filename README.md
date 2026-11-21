@@ -1,5 +1,3 @@
-# Songprojekt – *Das beste Timesheet – 7,8*
-
 
 ![](styles/covers/preview_2.webp)
 
