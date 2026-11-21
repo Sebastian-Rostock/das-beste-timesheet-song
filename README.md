@@ -1,5 +1,5 @@
 
-![](styles/covers/preview_2.webp)
+[![](styles/covers/preview_2.webp)](styles/preview.md)
 
 Der Song **Das beste Timesheet – 7,8** ist eine augenzwinkernde Stadion-Hymne auf eines der unscheinbarsten, aber wichtigsten Rituale im Forschungs- und Büroalltag: die **monatliche Zeiterfassung** in SAP CATS. 
 
