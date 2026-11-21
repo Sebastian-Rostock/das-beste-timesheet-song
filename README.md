@@ -1,5 +1,5 @@
 
-[![](styles/covers/preview_2.webp)](styles/preview.md)
+![](styles/covers/preview_2.webp)
 
 Der Song **Das beste Timesheet – 7,8** ist eine augenzwinkernde Stadion-Hymne auf eines der unscheinbarsten, aber wichtigsten Rituale im Forschungs- und Büroalltag: die **monatliche Zeiterfassung** in SAP CATS. 
 
@@ -27,7 +27,7 @@ Dieser Song ist ein **privates, liebevolles Spaß-Projekt** aus dem ganz normale
 
 * **Modulare ComfyUI-Workflows:** Um alles schlank und performant zu halten, besitzt jede der Stilrichtungen einen **eigenen ComfyUI-Workflow mit anpassbaren Subgraphs**. Die einzelnen Track-Varianten entstehen durch Variation der Parameter und lassen sich per Drag-and-Drop der MP3-Dateien direkt wieder in ComfyUI laden.
 
-* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **Kätzchen**. Generiert wurden die Bilder hier mit **GPT-Image** - in den Erinnerungs-E-Mails zuvor oft mit den Modellen *CyberRealistic v9.0* und *False Reality Mix v2.0*.
+* **Cover-Art & das *CATS*-Wortspiel:** Passend zum Namen des Zeiterfassungssystems **SAP CATS** zeigen die Cover-Arts – genau wie die monatlichen Erinnerungs-E-Mails an die Zeiterfassung – **[Kätzchen](styles/preview.md)**. Generiert wurden die Bilder hier mit **GPT-Image** - in den Erinnerungs-E-Mails zuvor oft mit den Modellen *CyberRealistic v9.0* und *False Reality Mix v2.0*.
 
 ---
 
